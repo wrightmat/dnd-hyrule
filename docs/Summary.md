@@ -9,6 +9,7 @@ Even with the Demon King Ganondorf gone, the Yiga have slowly gotten more organi
 ### Dungeons
 
 Twelve major dungeons throughout the world can be completed in any order, and will give major items after both the miniboss (elemental knights known as the "Heros") and boss (malice contaminated monster, or Yiga leader). At the end of each, the players will level up and get a medallion representing each temple's major element - which will be used to open up the final underground area with the final boss. They are presented in order of recommended completion, based on geographical area and difficulty. The final four underground dungeons, including the true final boss fight, are presented last.
+
 ```dataview
 table without id file.link as Dungeon, Location, Theme-Mechanic, Miniboss, Miniboss-Treasure, Boss, Boss-Treasure, Reward
 from #dungeon
@@ -57,3 +58,11 @@ list
 from #region
 sort Recommended-Order asc
 ```
+
+### References
+
+- **Zelda Breath of the Wild D&D by Soren and Goob** [https://homebrewery.naturalcrit.com/share/BkZzPiM0jl](https://homebrewery.naturalcrit.com/share/BkZzPiM0jl)
+- **Monster Manual** [https://homebrewery.naturalcrit.com/share/BkKjBTnTZ](https://homebrewery.naturalcrit.com/share/BkKjBTnTZ)
+- **D&D Wiki Hyrule Campaign Supplement** [https://dandwiki.com/wiki/Hyrule_%285e_Campaign_Setting%29](https://dandwiki.com/wiki/Hyrule_%285e_Campaign_Setting%29)
+- **Reclaim The Wild** [https://reclaimthewild.net/](https://reclaimthewild.net/)
+- **Creating a Champion** [https://archive.org/details/TheLegendOfZeldaBreathOfTheWildCreatingAChampion/page/n177/mode/2up](https://archive.org/details/TheLegendOfZeldaBreathOfTheWildCreatingAChampion/page/n177/mode/2up)

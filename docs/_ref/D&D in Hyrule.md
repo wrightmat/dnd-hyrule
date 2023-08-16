@@ -2,9 +2,9 @@
 
 Welcome to a special edition of a Dungeons and Dragons adventure, set within the fictional world of Hyrule! For more information on this unique setting, please reference the Adventurers' Guide to Hyrule as well as Ganon's Guide to Monsters.
 
-### Adjustments from 5e
+### Setting-Specific Rules
 
-This edition uses a few modified rules, mostly from Original Dungeons and Dragons, in order to give a more Zelda-like feel to certain areas of gameplay. This mostly applies to dungeon crawling mechanics which aren't present in vanilla D&D 5e.
+This setting uses a few modified rules, mostly variant rules from 5e or from previous versions of Dungeons and Dragons, in order to give a more Zelda-like feel to certain areas of gameplay. This mostly applies to dungeon crawling mechanics which aren't present in vanilla D&D 5e.
 
 #### Dungeon Crawling
 
@@ -81,25 +81,66 @@ Dungeons often have many doors, some secret and others obvious. Many are locked,
 - The GM needs to update time records at the end of each turn. The number of turns since the last rest should be incremented, the life (burn time) of torches should be decremented, and spell durations decremented. Keep in mind that since a turn in a dungeon is equal to six minutes, most spells will only last one or two turns.
 - Any monster already present in the dungeon should be moved at this time. They can move their speed in feet per turn, and should generally move toward the party.
 
-### Preparing the Adventure
+#### Magic Points
 
-You don’t need to prepare this entire adventure for the first session. Simply get to know each episode prior to beginning that session. As you do so, spend some time familiarizing yourself with the adventure’s locations, events, and characters. You’ll also want to review the relevant statistics for any monsters or nonplayer characters (NPCs). The episodes are presented in the order recommended that the players tackle them, with increasing difficulty in each region: from Central Hyrule (and optionally, the Great Plateau), to Necluda Region, to Faron Region, to Lanayru Region, to Akkala Region, to Eldin Region, to Hebra Region, and finally to Gerudo Region.
+See [Spells (Hyrule Supplement)](https://www.dandwiki.com/wiki/Spells_(Hyrule_Supplement))
 
-This adventure is designed for three to seven 2nd- to 10th-level characters, and is optimized for four characters. Players should make a new 2nd-level character or use a pre-generated character. Ideally this is covered in the first game session and assisted by the DM.
+Spellcasting classes available to player-characters use a version of the Spell Points variant rule described on page 288 of the Dungeon Master's Guide, referred to in this setting as Magic Points.
 
-### Dungeon Mastering Tips
+Magic points are used primarily to cast spells, and replace spell slots in this setting. Casting a spell requires the expenditure of a specific number of magic points. (See table below)
 
-As the DM running this adventure, you have the most important role in facilitating the enjoyment of the game for the players. You help guide the narrative and bring the words on these pages to life. The outcome of a fun game session often creates stories that live well beyond the play at the table. Always follow this golden rule when you run an adventure for a group: Make decisions and adjudications that enhance the fun of the adventure whenever possible. To reinforce this rule, keep the following points in mind:
+Initially, casting a spell requires expending a number of points equal to 1 + spell level. From 3rd level spells up, it requires 2 + spell level. From 6th level spells up, it requires 3 + spell level.
 
-* You are empowered to make adjustments to the adventure and make decisions about how the characters interact with the world of the adventure. This is especially important and applicable outside of combat, but feel free to also make adjustments for groups that are having too easy or too hard of a time in an adventure.
-* Don’t make the adventure too easy or too difficult for a group. Never being challenged makes for a boring game, and being overwhelmed makes for a frustrating game. Gauge the experience that the players (not the characters) have with the game. Try to get a sense of what each player likes in a game session (or simply ask), and try to give all players the experience they’re after. Give everyone a chance to shine.
-* Be mindful of pacing, and keep the game session moving along appropriately. Watch for stalling, since play loses momentum when this happens. At the same time, try to provide the players with a full play experience that doesn’t finish too early.
-* Give the players appropriate hints so they can make informed choices about how to proceed. Players should be given clues when necessary so they can tackle puzzles, combat, and interactions without getting frustrated over lack of information. This helps to encourage immersion in the adventure and gives players “little victories” for figuring out good choices from clues.
+A character can cast a spell at a higher level than normal by expending additional magic points. For example, casting *magic missile*, a 1st-level spell, normally costs 2 magic points. It can be cast as a 3rd level spell, improving its damage output, by expending the magic points needed to cast a 3rd level spell — which is 5 magic points.
 
-In short, being the DM isn’t about following the adventure’s text word for word. It’s about helping to create a fun, challenging game environment for the players. The Dungeon Master’s Guide has more information on the art of running a D&D game.
+Spells of 6th level and higher are particularly taxing to cast. Once a character casts a spell of 6th, 7th, 8th, or 9th level, the character cannot cast a spell of that level again until after completing a long rest, even if there are magic points to spare.
 
-#### Using Monster References
+Magic points are fully restored after a long rest. Some class features and magic items can restore a limited amount of magic points.
 
-Throughout the adventure, each encounter presents monster names in bold. This is a visual cue pointing you to look up the monster’s stat block. If a monster comes from this adventure’s appendix, you should find a parenthetical note telling you to look there. Finding no such note, you should head for the Monster Manual or Ganon's Guide to Monsters.
+| Spell Level | Magic Cost |
+| ----------- | ---------- |
+| 1st	| 2 |
+| 2nd	| 3 |
+| 3rd	| 5 |
+| 4th	| 6 |
+| 5th	| 7 |
+| 6th	| 9 |
+| 7th	| 10 |
+| 8th	| 11 |
+| 9th	| 12 |
 
-The simplest way to calculate random rupee drops from monsters is to use the formula CRd6x10. So a CR 4 monster would drop 4d6x10 rupees, or an average of 200.
+#### Stamina Points
+
+Stamina points are expended mainly to make called shots, for certain class features, and for a few magic items. Only characters of certain classes gain stamina points.
+
+Any character with stamina points can expend them in place of magic points. Doing so simply requires expending 1 stamina point for every 1 magic point that would need to be expended, but doing so is extra taxing, so any stamina points used in this way do not replenish until the character completes a long rest. Otherwise, stamina points are fully replenished upon completing a short rest.
+
+#### Called Shots
+
+Just before making an attack roll with a weapon or an unarmed strike, a player-character can make a called shot either by expending 2 stamina points, or by taking disadvantage on the attack roll. One cannot make a called shot if the attack roll would have disadvantage anyway.
+
+A called shot generally aims for wherever the target is most vulnerable, such as gaps in a warrior's armor, or the large eye of an exposed insect. This kind of called shot maximizes the damage dice rolled on a hit (e.g., treating 1d8 as simply 8), including any extra dice rolled as part of a critical hit or from other sources.
+
+Some creatures in Hyrule have specific weaknesses to called shots made against a part of its body, referred to as a "weak point." Generally, a player-character should be able to identify a weak point fairly easily unless it is specifically concealed. Making a called shot targeting a specific weak point (e.g. "I aim for its tail") induces a particularly debilitating condition or extra damage, as described under the Weak Point trait of a relevant creature.
+
+#### Rupees Replace Coins
+
+The primary currency in Hyrule is rupees (rp). These appear as small, uniformly shaped crystal gems. Different colors of rupees are of proportionally different value.
+
+| Rupee  | Value  | Equiv.                 |
+| ------ | ------ | ---------------------- |
+| Green  | 1 rp   | 1 sp = 10 cp           |
+| Blue   | 5 rp   | 5 sp = 50 cp           |
+| Yellow | 10 rp  | 1 gp = 10 sp = 100 cp  |
+| Red    | 20 rp  | 2 gp = 20 sp ( = 1 ep) |
+| Purple | 50 rp  | 5 gp = 50 sp           |
+| Silver | 100 rp | 1 pp = 10 gp = 100 sp  |
+| Gold   | 300 rp | 3 pp = 30 gp           |
+
+*Any item which would cost less than 1 silver (10 copper) effectively has a selling price of 1 rupee.*
+
+#### Heavier Armor
+
+See Equipment (DMG Chapter 5).
+
+If you do not meet the Strength score requirement of the armor you are wearing, you are restricted as though you lack proficiency with that armor. This means you would have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and spells could not be cast.
