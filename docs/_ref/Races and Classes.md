@@ -2,14 +2,14 @@
 
 ## Races
 
-* Gerudo (Half Orc)
-* Goron (Custom, based on Dwarf)
-* Hylian (Half Elf)
-	* Sheikah
-	* Yiga
-* Korok
-* Rito (Aarakocra)
-* Zora (Sea Elf, except without the Elf traits)
+| Race   | Ability Scores | Speed        | Base Race     |
+| ------ | -------------- | ------------ | ------------- |
+| Gerudo | CHA +2, CON +1 | 30           | Half Orc      |
+| Goron  | STR +2, CON +1 | 25           | N/A (Custom)  |
+| Hylian | Any two +1     | 30           | Variant Human |
+| Korok  | WIS or CHA +2  | 20 (25 fly)  | N/A (Custom)  |
+| Rito   | DEX +2, WIS +1 | 25           | Aarakocra     |
+| Zora   | CHA +2, CON +1 | 30 (30 swim) | Sea Elf       |
 
 ## Classes
 
