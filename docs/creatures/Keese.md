@@ -20,7 +20,7 @@ languages: --
 cr: 1/8
 traits:
   - name: Elemental Cloak.
-    desc: "The chuchu is visibly and magically cloaked with an energy matching the damage type to which it is immune, based on its color."
+    desc: "The keese is visibly and magically cloaked with an energy matching the damage type to which it is immune, based on its color."
   - name: Sunlight Sensitivity.
     desc: "While in sunlight, the keese has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
 actions:
