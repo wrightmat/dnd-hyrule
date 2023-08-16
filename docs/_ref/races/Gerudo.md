@@ -51,12 +51,14 @@ Gerudo names tend to contain two or three syllables with many _a_'s and _o_'s.
 
 **Languages.** You speak, read, and write Common and Gerudo.
 
-**Gerudo Lifestyle.** You have proficiency with the persuasion and intimidation skills. You have advantage against charisma checks on men.
+**Menacing**. You gain proficiency in the Intimidation skill.
 
-**Toughness.** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+**Relentless Endurance**. When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
 
-**Warrior’s Resilience.** Once per short rest, when a Gerudo is brought below 0 hit points but not killed, she can fight on for one more round as if disabled. At the end of her next turn, unless brought to above 0 hit points, she immediately falls unconscious and begins dying.
-
-**Desert Focus.** In one combat per short rest, Gerudo can focus on an enemy as if casting Hunter’s Mark. The spell works as stated during that combat.
+**Savage Attacks**. When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
 
 **Weapon Training.** You have proficiency with glaives, scimitars and spears.
+
+### References
+
+* Re-skinned Half-Orc from PHB (with different Ability Scores, and Weapon Training and Optional Flaw added).

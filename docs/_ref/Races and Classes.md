@@ -2,7 +2,7 @@
 
 ## Races
 
-* Gerudo
+* Gerudo (Half Orc)
 * Goron (Custom, based on Dwarf)
 * Hylian (Half Elf)
 	* Sheikah
