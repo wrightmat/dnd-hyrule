@@ -14,10 +14,6 @@ hp: 40
 hit_dice: 8d4 + 24
 speed: 30 ft.
 stats: [16, 12, 16, 6, 11, 5]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
 damage_vulnerabilities: thunder
 damage_resistances: acid, cold, fire, lightning
 damage_immunities: poison; bludgeoning, piercing and slashing from nonmagical attacks
@@ -26,12 +22,12 @@ senses: tremorsense 30 ft., passive Perception 10
 languages: --
 cr: 1
 traits:
-  - name: Involuntary Destruction.
-    desc: "If the pebblit is knocked prone, takes falling damage, is moved involuntarily, or is grappled for two consecutive turns, it is reduced to 0 hit points and explodes. Each creature within 5 feet of it when it explodes must make a DC 13 Dexterity saving throw, taking 10 (3d6) thunder damage on a failed save or half as much damage on a successful one."
-  - name: False Appearance.
-    desc: "While the pebblit remains motionless, it is indistinguishable from a normal rock."
   - name: Elemental Nature.
     desc: "A pebblit doesn't require air, food, drink, or sleep."
+  - name: False Appearance.
+    desc: "While the pebblit remains motionless, it is indistinguishable from a normal rock."
+  - name: Involuntary Destruction.
+    desc: "If the pebblit is knocked prone, takes falling damage, is moved involuntarily, or is grappled for two consecutive turns, it is reduced to 0 hit points and explodes. Each creature within 5 feet of it when it explodes must make a DC 13 Dexterity saving throw, taking 10 (3d6) thunder damage on a failed save or half as much damage on a successful one."
 actions:
   - name: Slam.
     desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage and the target must succeed on a DC 13 Strength saving throw or be knocked prone."
