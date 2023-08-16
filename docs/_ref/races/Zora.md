@@ -63,7 +63,7 @@ Whenever you finish this trance, you can gain two proficiencies that you don’t
 
 
 
-**Weapon Training.** You are proficient with Tridents and natural weapons.
+**Weapon Training.** You are proficient with Tridents, Lances, and Nets.
 
 **Double Cutters.** Your arm fins are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
