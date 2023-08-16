@@ -2,7 +2,7 @@
 
 Hyrule's pantheon can be arranged in three tiers. The most powerful deities, the three Golden Goddess, are represented in the center of the Key of Hylia. The next step outward are the nine true gods and goddess, with Hylia and Demise as the most powerful. Each of these are represented by an element along the ring of the Key. The minor gods and goddess, spirits, and other powerful beings are represented by the twelve symbols on the outside of the Key. Each of these represents a domain and is remediated by the element closest to it.
 
-##### Hyrule Deities
+### Hyrule Deities
 
 | Diety                     | Tier           | Alignment | Domain(s)                     | Symbol(s)                                                                    |
 | ------------------------- | -------------- | --------- | ----------------------------- | ---------------------------------------------------------------------------- |
@@ -57,33 +57,21 @@ Din, the Goddess of Power is one of three most important deities. She came down 
 
 Farore, the Goddess of Courage is one of three most important deities. She came down from the heavens and created the world and Hyrule along with Nayru and Din. She is credited with the creation of all life. Her Triforce is the right one and her chosen hero is usually Link who receives limitless courage from his Triforce. Farore is often associated with forests and the Koroks.
 
-#### Alignment
+**Alignment**: True Neutral
 
-True Neutral
+**Domain**: Courage, Forest, Spirit, Wind
 
-#### Domain
+**Creatures of Favor**: Koroks, Animals
 
-Courage, Forest, Spirit, Wind
-
-#### Creatures of Favor
-
-Koroks, Animals
-
-### Hylia, Goddess of Light
+#### Hylia, Goddess of Light
 
 Hylia is the Goddess who was entrusted with the Triforce by the Three Golden Goddesses. She is the namesake for the Hylian race and is heavily worshiped by the Sheikah Clan who were her servants prior to Demise's sealing and Hylia's death. She was later reincarnated into the first Zelda and started the Hyrule Royal Family (as well as being the source of their powers).
 
-#### Alignment
+Alignment: Lawful Good
 
-Lawful Good
+Domain: Light
 
-#### Domain
-
-Light
-
-#### Followers
-
-Sheikah, Hylians
+Followers: Sheikah, Hylians
 
 ### Demise, God of Shadow
 
