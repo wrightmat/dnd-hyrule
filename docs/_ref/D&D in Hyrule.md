@@ -1,4 +1,4 @@
-#reference 
+ #reference 
 
 Welcome to a special edition of a Dungeons and Dragons adventure, set within the fictional world of Hyrule! For more information on this unique setting, please reference the Adventurers' Guide to Hyrule as well as Ganon's Guide to Monsters.
 

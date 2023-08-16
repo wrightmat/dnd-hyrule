@@ -1,4 +1,4 @@
-#mechanic #reference
+ #mechanic #reference
 
 1. Use an appropriate map to determine the distance between travel points.
 2. Determine the number of days of travel (rounded down) based on the mode of travel (24 miles per day while on foot, 48 miles per day by horse, 80 miles per day by average ship).

@@ -1,4 +1,4 @@
-#mechanic 
+ #mechanic 
 
 Both *Breath of the Wild* and *Tears of the Kingdom* use a similar horse rating and statistic system (with TotK only adding the "Pull" stat, which we don't use) for all of the horses in the game. Those games rank Strength (HP), Speed, and Stamina (gallops) on 5-star scales, give an initial Temperament (Gentle or Wild), and a Bond (on a scale from 0 to 100) for each horse. Those stats can then be upgraded by the Horse God Malanya.
 
@@ -7,12 +7,14 @@ The system below simplifies the base system a bit by making the Bond stat a 5-st
 ### Stats
 
 Each horse has a set of stats, represented by a 5-star rating. Even the horses with the highest base stats won't exceed a combined value of 12 stars, except for rare special horses that may be slightly higher.
+
 * Strength represents the horse's in-game HP, being a multiplier based on the game system's base horse - for example 5e's "Riding Horse" has a base HP of 15 (rounded up from the average 13 for easier math), so a one-star Strength horse has 15 HP while a two-star Strength horse has 30 HP, and so on.
 * Speed scales similarly, but the base horse's speed is assumed to be a one-star horse and the speed is increased by 10 feet for each star above - for example 5e's "Riding Horse" has a base Speed of 60 feet, so a two-star Speed horse moves at 70 feet per round and a five-star horse moves at 100 feet per round.
 * Stamina represents the number of times that a horse can gallop within a set time frame. Galloping in-game means use of the Dash Action, and the number of uses resets every 10 in-game rounds (either combat or overworld/dungeon crawl time).
 * Bond represents how connected the PC and the horse are. This is always only zero or two stars initially, with zero stars being used for "Wild" temperament horses, and two stars being used for "Gentle" temperament horses. The stat can be increased by critical success on an Animal Handling check, or by feeding and bonding with the horse during downtime. The main thing the stat determines is the DC of any Animal Handling checks needed while on the horse - with zero stars being a DC of 20, and the DC reducing by 2 for each additional star (so a five-star Bond results in a trivial DC of 10).
 
 The stats shown in the examples below are in a short form that represents the four base stats, as well as the basic appearance:
+
 * Strength (1 to 5) / Speed (1 to 5) / Stamina (1 to 5) / Bond (1 to 5) / Appearance
 
 ### Obtaining and Taming
@@ -26,6 +28,7 @@ Once a horse is selected, the player will need to perform an initial Animal Hand
 ### Actions
 
 When riding a horse, players will always move at the horse's Speed, but they can also choose to take certain actions while on horseback. Any time one of these actions is performed, an Animal Handling check against the horse's DC (determined by the Bond, see above) is called for. Failure means that the action is not performed, which could simply mean that the horse doesn't Dash (and moves at its regular speed that round) or there may be a declared failure result. Available actions are:
+
 * **Dash**: use up one Stamina to move at twice the horse's Speed for the turn.
 * **Jump**: use up one Stamina to clear an obstacle of some sort. Failure results in the jump being missed, which means that the horse has a speed of zero for that turn (does not move at all) and the Stamina is used up.
 * **Whoa!**: reduce the horse's speed over the course of the turn, covering half of their speed in the turn and ending the turn at a speed of zero. Failure results in the horse not listening to the command and continuing at the previous speed. This action works exactly the same way in the opposite direction as well - with speed going from zero to full speed over the course of a turn.

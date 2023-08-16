@@ -1,4 +1,4 @@
-#mechanic 
+ #mechanic 
 
 Using a deck of cards, we will simulate the act of trying to navigate a winding and disorienting labyrinth all while being pursued by the vile monster tasked with its protection. Created by /u/_Amazing_Wizard.
 
@@ -23,6 +23,7 @@ If a Trap Card is revealed, roll on the Labyrinth Trap Table to see which kind o
 ### The Deck
 
 This can be played with a standard deck of playing cards by dividing it in half and keeping only one red suit and one black suit (discarding Jokers). That yields a deck of 26 cards. Of these:
+
 * A or 2 of any suit is a Monster (15% chance)
 * Face card (J, Q, or K) of any suit is a Trap (23% chance)
 * Any remaining Black card is a Right Path (31% chance)
@@ -31,15 +32,19 @@ This can be played with a standard deck of playing cards by dividing it in half 
 Cards from the other two remaining suits may be used during play, as some Actions can add more cards to the deck, changing the odds of those card types. Also some Maze details may require additional cards of certain types to be added to a deck in order to shift the odds of play.
 
 ##### Monster Cards (A, 2)
+
 These cards represent the monster in the Maze drawing closer to the party. When revealed, the DM scores one (1) point toward a monster encounter, needing two (2) to start an encounter. At this point, the party enters combat using their pre-rolled initiative, and the DM rolls for the monster's initiative and slots it in. When the party successfully defeats the encounter, the monster card is removed from the game, lowering the chance to encounter it again.
 
 ##### Trap Cards (J, Q, K)
+
 These cards represent... Traps! Players use their skills to avoid the hazards laid throughout the Maze. When revealed, the DM may roll on the Maze's Trap table to see what kind of Trap the party has encountered (or hand-pick).
 
 ##### Right Path Cards (Black)
+
 These cards represent characters making the correct choice when entering an intersection, pushing them closer to the exit. When revealed, the party scores one (1) point toward exiting the Maze. They usually need 5 to find the exit, but this is determined by the Maze's Victory Condition.
 
 ##### Dead End Cards (Red)
+
 These cards represent characters taking the incorrect path, requiring them to double back and adding to the frustration of navigating the Maze. When revealed, Dead Ends stay in play until they fill the river, where they are then removed, and an additional Monster Card is shuffled into the deck (representing the monster getting closer to the party as they've gotten lost in the Maze).
 
 ### The River
@@ -51,15 +56,19 @@ The River can only have three (3) cards in it. The river represents the potentia
 Each PC takes a turn choosing a path to take in the Maze. This happens in the initiative order established at the start. There are three phases in each turn:
 
 ##### Deal Phase
+
 The DM removes any cards from the river (except for Dead Ends) and deals new cards from the deck face down to the river until it has three (3) cards. If you run out of cards in the deck, shuffle the discard pile to create a new deck.
 
 ##### Action Phase
+
 The Party Member can choose an Action from the available Actions and use it. Once an Action is used, it can not be used again until all other Actions are used. These Actions are global, meaning if one party member uses the Forge A Path (STR) Action, no one else can until all other Actions are taken.
 
 ##### Draw Phase
+
 The Party Member decides which card they want to flip over. The card is flipped over and its effect is resolved. This phase is sometimes augmented or supplanted by a successful Action, such as when Careful Consideration (WIS) allows the PC to reveal two cards in the river and choose one. If an Action is attempted and failed, the player can still always draw a card.
 
 ##### End of Round
+
 A round ends when each party member has taken a turn. If there are no Actions left to use, the Actions reset and are available again for the next round. 
 
 ### Actions
@@ -81,6 +90,7 @@ When performing an Action, the active player makes a skill check using the stat 
 ### Example Maze
 
 ##### Enchanted Forest Maze (DC 13)
+
 * **Victory Condition**: 5 Right Path Cards or Kill the Monster
 
 | d6  | Trap Effect                                                                                                                                                                                                       |
