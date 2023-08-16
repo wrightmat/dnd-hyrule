@@ -33,6 +33,8 @@ Hyrule's pantheon can be arranged in three tiers. The most powerful deities, the
 
 ![https://i.imgur.com/Q4xqTeX.png](https://i.imgur.com/Q4xqTeX.png)
 
+### Golden Goddesses
+
 #### Nayru, Golden Goddess of Wisdom
 
 Nayru, the Goddess of Wisdom, is one of three most important deities. She came down from the heavens and created the world and Hyrule along with Din and Farore. She is credited with the creation of the laws of the universe and magic. Like the two other Goddesses, her power is represented in the Triforce. Her Triforce is the left one and her choosen hero is usually Princess Zelda who receives near endless wisdom from her Triforce. Nayru is also often affiliated with water and the Zoras.
@@ -63,284 +65,192 @@ Farore, the Goddess of Courage is one of three most important deities. She came 
 
 **Creatures of Favor**: Koroks, Animals
 
+### Gods and Goddesses
+
 #### Hylia, Goddess of Light
 
 Hylia is the Goddess who was entrusted with the Triforce by the Three Golden Goddesses. She is the namesake for the Hylian race and is heavily worshiped by the Sheikah Clan who were her servants prior to Demise's sealing and Hylia's death. She was later reincarnated into the first Zelda and started the Hyrule Royal Family (as well as being the source of their powers).
 
-Alignment: Lawful Good
+**Alignment**: Lawful Good
 
-Domain: Light
+**Domain**: Light
 
-Followers: Sheikah, Hylians
+**Followers**: Sheikah, Hylians
 
-### Demise, God of Shadow
+#### Demise, God of Shadow
 
 Demise is an extremely powerful entity who considers itself as the ruler of the Demon Tribe. Demise is said to be eternal and to have conquered time itself as well as being the source of all monsters in existence. Its appearance is merely an illusion that changes depending on who lays eyes on it. It is strong enough to kill Hylia's physical form during their first fight and forced her to become a human for some time. It was originally sealed at the end of the war between Hylia and itself. Its physical form was eventually defeated by Link with the Master Sword but as a being that conquered time itself, Demise found a way to retain his influence over the world by having its hatred for Link and Zelda become Ganon. Demise is also the reason why Link, Zelda and Ganondorf are forced to be reincarnated across the ages.
 
-#### Alignment
+**Alignment**: Chaotic Evil
 
-Chaotic Evil
+**Domain**: Shadow
 
-#### Domain
+**Followers**: Monsters
 
-Shadow
-
-#### Followers
-
-Monsters
-
-### Valoo, God of Flames
+#### Valoo, God of Flames
 
 Valoo (also called Volvagia) is a dragon-like spirit that serves as a guardian deity of the fires.
 
-#### Alignment
+**Alignment**: Chaotic Good
 
-Chaotic Good
+**Domain**: Fire
 
-#### Domain
+**Followers**: Gorons, Lynels
 
-Fire
-
-#### Followers
-
-Gorons, Lynels
-
-### Jabu-Jabu, God of Seas
+#### Jabu-Jabu, God of Seas
 
 Lord Jabu-Jabu (also called Jabun) is a large whale like spirit that serves as the guardian deity of the waters.
 
-#### Alignment
+**Alignment**: Neural Good
 
-Neural Good
+**Domain**: Water
 
-#### Domain
+**Followers**: Zora
 
-Water
-
-#### Followers
-
-Zora
-
-### Deku Tree, God of Forests
+#### Deku Tree, God of Forests
 
 The Great Deku Tree is a giant tree-like spirit that serves as the guardian deity of the forests. He is usually found at the center of a huge forest where he lives alongside the forest spirits (Kokiri, Koroks, or Kikwi).
 
-#### Alignment
+**Alignment**: Lawful Neutral
 
-Lawful Neutral
+**Domain**: Forest
 
-#### Domain
+**Followers**: Koroks
 
-Forest
+#### Colossus, Goddess of Sands
 
-#### Followers
+The Goddess of the Sand, also known as the Desert Colossus, is a deity worshiped by the Gerudo and is the inspiration for the construction of much of their architecture.
 
-Koroks
+**Alignment**: True Neutral
 
-### Colossus, Goddess of Sands
+**Domain**: Spirit
 
-The Goddess of the Sand, also known as the Desert Goddess, is a deity worshiped by the Gerudo and is the inspiration for the construction of much of their architecture.
+**Followers**: Gerudo
 
-#### Alignment
-
-True Neutral
-
-#### Domain
-
-Spirit
-
-#### Followers
-
-Gerudo
-
-### Levias, God of Winds
+#### Levias, God of Winds
 
 The Wind God Levias, also known as The Wind Fish, is a wise, whale-like Sky Spirit who has served as the protector of the skies for ages.
 
-#### Alignment
+**Alignment**: Lawful Neutral
 
-Lawful Neutral
+**Domain**: Wind
 
-#### Domain
+**Followers**: Rito
 
-Wind
-
-#### Followers
-
-Rito
-
-### Kasuto, God of Earth
+#### Kasuto, God of Earth
 
 Little is known about the Earth God, except his name or title being evoked at times. Both the God and his followers are exceptionally mysterious.
 
-#### Alignment
+**Alignment**: Chaotic Neutral
 
-Chaotic Neutral
+**Domain**: Earth
 
-#### Domain
+**Followers**: Zonai
 
-Earth
-
-#### Followers
-
-Zonai
-
-### Termina, Goddess of Time
+#### Termina, Goddess of Time
 
 The Goddess of Time, while not well known or revered in Hyrule, is the arbiter of fate and the flow of time. She contributes her name to the land in which she is most well known.
 
-#### Alignment
+**Alignment**: Lawful Good
 
-Lawful Good
+**Domain**: Time
 
-#### Domain
+**Followers**: Giants
 
-Time
+### Minor Gods and Spirits (Kami)
 
-#### Followers
-
-Giants
-
-### Lyna, Minor Goddess of the Forge
+#### Lyna, Minor Goddess of the Forge
 
 It is said that all monsters derived from Demise and his curse. But legend states that some of the more intelligent monsters, namely the Lynels, descend from the Minor Goddess of the Forge - Lyna.
 
-#### Alignment
+**Alignment**: Chaotic Neutral
 
-Chaotic Neutral
+**Domains**: Forge, Fire
 
-#### Domains
-
-Forge, Fire
-
-### Vaati, Minor God of Tornados
+#### Vaati, Minor God of Tornados
 
 Vaati is a powerful Wind Mage who once took the form of a Picori sorceror. He now appears as a floating blue and black monstrosity with wings and a single giant eye.
 
-#### Alignment
+**Alignment**: Chaotic Evil
 
-Chaotic Evil
+**Domains**: Trickery, Wind
 
-#### Domains
-
-Trickery, Wind
-
-### Cyclos, Minor God of Storms
+#### Cyclos, Minor God of Storms
 
 Cyclos and his brother Zephos serve as god of wind/storms, and appear as giant frogs sitting on clouds. Cyclos is proficient in creating giant cyclones all over the Great Sea.
 
-#### Alignment
+**Alignment**: Chaotic Neutral
 
-Chaotic Neutral
+**Domains**: Tempest, Water
 
-#### Domains
-
-Tempest, Water
-
-### Zephos, Minor God of Gentle Wind
+#### Zephos, Minor God of Gentle Wind
 
 Cyclos and his brother Zephos serve as god of wind/storms, and appear as giant frogs sitting on clouds. Zephos is revered by the Rito people of the Great Sea.
 
-#### Alignment
+**Alignment**: True Neutral
 
-True Neutral
+**Domains**: Order, Wind
 
-#### Domains
-
-Order, Wind
-
-### Malanya, Minor God of Horses
+#### Malanya, Minor God of Horses
 
 Malanya is the Horse God. Like his name suggests, he takes care of anything related to horses in the Zelda universe and even has the power to bring them back to life if they met an unfortunate end. Malanya looks like a giant humanoid made of wood with a horse head and disembodied hands.
 
-#### Alignment
+**Alignment**: Chaotic Good
 
-Chaotic Good
+**Domains**: Protection, Spirit
 
-#### Domains
-
-Protection, Spirit
-
-### Venus, Minor Goddess of Magic
+#### Venus, Minor Goddess of Magic
 
 Venus, known as the Fairy Queen, is the ruler over all of the Fairies and Great Fairies in Hyrule. She is known to be much more powerful than the Great Fairies, and as such, she can empower heroes with abilities that no Great Fairy can. All of the Fairies and Great Fairies follow the Fairy Queen, and in turn get their magical abilities from her.
 
-#### Alignment
+**Alignment**: Neutral Good
 
-Neutral Good
+**Domains**: Magic, Time
 
-#### Domains
-
-Magic, Time
-
-### Parapa, Minor Goddess of Fortune
+#### Parapa, Minor Goddess of Fortune
 
 The sister of the Fairy Queen, Parapa is the leader of the Great Fairies and mediator of both fortune and love.
 
-#### Alignment
+**Alignment**: Lawful Good
 
-Lawful Good
+**Domains**: Fortune, Life
 
-#### Domains
-
-Fortune, Life
-
-### Oni, Minor God of War
+#### Oni, Minor God of War
 
 Oni, also known as the Fierce Deity, is an extremely destructive deity sealed inside the Fierce Deity's Mask. Almost nothing is known about the Fierce Deity except that it is an extremely violent spirit that is referred as the "True Bad Guy" by the spirit sealed inside Majora's Mask.
 
-#### Alignment
+**Alignment**: Chaotic Good
 
-Chaotic Good
+**Domains**: War, Earth
 
-#### Domains
-
-War, Earth
-
-### Majora, Great Old One
+#### Majora, Great Old One
 
 A long time ago, a mysterious tribe used Majora's Mask in its hexing rituals. However, the troubles caused by the mask were so great that the ancient ones, fearing catastrophe, sealed the mask in shadow to prevent its misuse. The tribe has since vanished, but the mask was eventually tracked down and uncovered. The spirit of Majora seems happy with simple destruction, as its sole symbol amplifies the wearer's dark desires.
 
-#### Alignment
+**Alignment**: Lawful Evil
 
-Lawful Evil
+**Domains**: Death, Shadow
 
-#### Domains
-
-Death, Shadow
-
-### Spirit of Evil (Ganon)
+#### Spirit of Evil (Ganon)
 
 Ganon is the manifestation of Demise's undying hatred. Ganon generally manifest itself as Ganondorf's most powerful form or by itself when a humanoid vessel is not needed. Like Demise, Ganon is worshiped by the Demon Tribe as a god and has the power of one.
 
-#### Alignment
+**Alignment**: Chaotic Evil
 
-Chaotic Evil
+**Domains**: Chaos, Shadow
 
-#### Domains
-
-Chaos, Shadow
-
-### Spirit of the Hero (Link)
+#### Spirit of the Hero (Link)
 
 Since the beginning of time, a hero has risen to save Hyrule. Originally this hero was the chosen champion of Hylia, but when his reincarnation was cursed by Demise, the hero's spirit became something greater. This spirit arises when it's needed, usually garbed in green, and often taking the name Link.
 
-#### Alignment
+**Alignment**: Neutral Good
 
-Neutral Good
+**Domains**: Peace, Forest
 
-#### Domains
-
-Peace, Forest
-
-### Spirit Maiden (Zelda)
+#### Spirit Maiden (Zelda)
 
 Early on in the history of Hyrule, the original Zelda, while born as a Hylian, was the mortal incarnation of the Goddess Hylia. Carrying on this divine blood, her female descendants are often named after her and are always the crown princess of Hyrule throughout its history. The Spirit of the Goddess, also known as the Spirit Maiden, was also cursed by Demise and is destined to be reborn regularly.
 
-#### Alignment
+**Alignment**: Lawful Good
 
-Lawful Good
-
-#### Domains
-
-Knowledge, Light
+**Domains**: Knowledge, Light

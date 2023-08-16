@@ -3,13 +3,13 @@
 ## Races
 
 * Gerudo
-* Goron
-* Hylian (Variant Human)
+* Goron (Custom, based on Dwarf)
+* Hylian (Half Elf)
 	* Sheikah
 	* Yiga
 * Korok
 * Rito (Aarakocra)
-* Zora
+* Zora (Sea Elf, except without the Elf traits)
 
 ## Classes
 
