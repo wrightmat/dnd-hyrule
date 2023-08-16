@@ -1,3 +1,5 @@
+# Masters of the Esoteric Arts
+
 *In a land of ancient ruins, one clan attempts to revive the ultimate evil...*
 
 ### Background
