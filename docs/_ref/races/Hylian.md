@@ -35,7 +35,7 @@ Hylians have a wide range of names due to their ties across regions. Many names 
 
 ### Hylian Traits
 
-**Ability Score Increase.** Your ability scores each increase by 1.
+**Ability Score Increase.** Two different ability scores of your choice increase by 1.
 
 **Age.** Hylians reach maturity at age 17 and live until they are around 80 years old.
 
@@ -47,11 +47,13 @@ Hylians have a wide range of names due to their ties across regions. Many names 
 
 **Languages.** You speak, read, and write Common and two other languages of your choice.
 
-
-
-
-
-
 **Hylian Armor Training.** You are proficient with light and medium armor.
 
 **Versatile.** You are proficient in two skills of your choice. You gain one feat of your choice.
+
+
+Skills
+You gain proficiency in one skill of your choice.
+
+Feat
+You gain one feat of your choice.
