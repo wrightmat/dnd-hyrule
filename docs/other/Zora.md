@@ -1,4 +1,4 @@
-#lore 
+ #lore 
 
 The Zora are an aquatic folk who possess fish and amphibian like traits, including fins, webbed feet and gills, which allow them to swim and thrive underwater. Zora can come in many shapes and sizes, but are most commonly depicted as humanoids with long tail fins on their heads and finned appendages on their arms and legs. They are protectors of water.
 

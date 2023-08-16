@@ -10,7 +10,7 @@ Comments: Bedrock Bistro
 Type: Medium
 Sexuality: Asexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

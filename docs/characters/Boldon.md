@@ -13,7 +13,7 @@ Sexuality: Asexual
 Relationships: "[[Naddon]] (Brother)"
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/76/BotW_Boldon_Model.png|200](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/76/BotW_Boldon_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

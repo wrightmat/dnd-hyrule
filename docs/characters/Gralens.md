@@ -7,7 +7,7 @@ Occupation: Military Captain
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc [[Soldiers' Guild]]
+ #npc [[Soldiers' Guild]]
 
 > [!infobox]
 > # `=this.file.name`

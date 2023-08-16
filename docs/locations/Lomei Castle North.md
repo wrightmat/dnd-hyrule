@@ -1,4 +1,4 @@
-#location #village [[Hebra Region]]
+ #location #village [[Hebra Region]]
 
 While rare, intelligent monsters have been known to establish settlements of sorts on their own. This northern labyrinth (also discovered to have once been a castle during the events of the Upheaval), has been settled by the Lynels - and has become a large village for them. The labyrinth is perfect for them, as outsiders get lost before they find their way to the heart of the labyrinth where the village actually exists. The labyrinth also became much larger and more imposing after the Upheaval, when the castle section in the sky fell on top of the labyrinth on the land, creating an exceptionally tall structure.
 

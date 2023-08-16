@@ -1,4 +1,4 @@
-#location #stable [[West Necluda]]
+ #location #stable [[West Necluda]]
 
 This is not a traditional stable, as the party can see that it's basically abandoned when they approach. The owner, Doza, is behind the counter. When approached, he explains that many of the stables in Hyrule are going under as the larger cities are re-building. In addition, there has been an evil energy emanating from a forest in the south that's driven people away. So he's looking to pick up and move on, and offers to sell the whole Stable to the party for 5,000 rupees. That will be enough for him to get a new start elsewhere.
 

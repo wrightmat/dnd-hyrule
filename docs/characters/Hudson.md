@@ -10,7 +10,7 @@ Relationships:
   - "[[Rhondson]] (wife)"
   - "[[Mattison]] (daughter)"
 ---
-#npc [[Hudson Construction]]
+ #npc [[Hudson Construction]]
 
 > [!infobox]
 > # `=this.file.name`

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster [[Hinoxes]]
+ #monster [[Hinoxes]]
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6e/BotW_Blue_Hinox_Model.png]]

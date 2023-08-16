@@ -13,7 +13,7 @@ Relationships:
   - "[[Kiana]] (mother)"
   - "[[Zuta]] (brother)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

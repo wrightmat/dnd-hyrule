@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster [[Poes]]
+ #monster [[Poes]]
 
 ```statblock
 image: [[https://www.models-resource.com/resources/big_icons/29/28062.png]]

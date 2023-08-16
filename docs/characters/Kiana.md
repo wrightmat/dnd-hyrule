@@ -12,7 +12,7 @@ Relationships:
   - "[[Kinov]] (son)"
   - "[[Zuta]] (son)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

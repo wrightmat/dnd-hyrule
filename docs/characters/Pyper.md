@@ -8,5 +8,5 @@ Comments: Stable Trotters, travel to all stables
 Type: Minor
 Sexuality: Bisexual
 ---
-#npc 
+ #npc 
 

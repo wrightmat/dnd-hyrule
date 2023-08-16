@@ -1,4 +1,4 @@
-#location #stable [[Deep Akkala]]
+ #location #stable [[Deep Akkala]]
 
 >You've been told that the East Akkala Stable is a place where adventurers could find respite in a more laid back environment than the rigid Citadel Town. Also the food and drink are universally praised here. As you enter the stable, you see a number of people sitting around tables chatting. One table of Hylian men give you an untrusting look and immediately start whispering to each other.
 

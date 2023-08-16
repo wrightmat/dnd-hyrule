@@ -8,7 +8,7 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Rola]] (ex-wife)"
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 
 > [!infobox]
 > # `=this.file.name`

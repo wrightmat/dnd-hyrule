@@ -1,4 +1,4 @@
-#location #stable [[Eldin Region]]
+ #location #stable [[Eldin Region]]
 
 The primary animal tended here is the donkey, which travelers often buy or rent in order to explore the wilder areas of Eldin such as Death Mountain and Great Hyrule Forest.
 

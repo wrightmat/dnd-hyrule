@@ -1,4 +1,4 @@
-#item #medallion 
+ #item #medallion 
 
 _Wondrous item, legendary_
 

@@ -10,5 +10,5 @@ Relationships:
   - "[[Teba]] (father)"
   - "[[Saki]] (mother)"
 ---
-#npc [[Fokka Knights]]
+ #npc [[Fokka Knights]]
 

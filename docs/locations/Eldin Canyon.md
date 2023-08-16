@@ -1,4 +1,4 @@
-#location [[Eldin Region]]
+ #location [[Eldin Region]]
 
 Eldin Canyon is a vast area within Eldin, comprising of almost the entirety of the Region. The Canyon primarily covers southern and central Eldin, and stretches to the far northeast along the ends of Hyrule. The southern portion of the Canyon is a valley with rolling foothills that borders along Great Hyrule Forest, Hyrule Field, and northern Lanayru.
 

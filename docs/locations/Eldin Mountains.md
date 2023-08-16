@@ -1,4 +1,4 @@
-#location [[Eldin Region]]
+ #location [[Eldin Region]]
 
 The Eldin Mountains is the mountain range forming the north-west of the Eldin Region.
 

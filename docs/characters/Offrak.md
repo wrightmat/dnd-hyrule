@@ -6,5 +6,5 @@ Location: Goron City
 Type: Minor
 Relationships: "[[Aji]] (unknown family member)"
 ---
-#npc 
+ #npc 
 

@@ -7,5 +7,5 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Mina]] (sister)"
 ---
-#npc 
+ #npc 
 

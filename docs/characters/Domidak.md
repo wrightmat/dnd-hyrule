@@ -8,7 +8,7 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Prissen]] (younger twin brother)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

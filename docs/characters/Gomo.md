@@ -10,7 +10,7 @@ Comments: Travels between Bedrock Bistro and Gorondia
 Type: Medium
 Sexuality: Asexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

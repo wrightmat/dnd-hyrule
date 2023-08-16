@@ -7,5 +7,5 @@ Occupation: Researcher
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 

@@ -9,7 +9,7 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Lorn]] (mother)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

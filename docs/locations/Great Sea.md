@@ -1,4 +1,4 @@
-#location [[Faron Region]]
+ #location [[Faron Region]]
 
 The Great Sea is the larger sea that surrounds the continent that the Kingdom of Hyrule sits on. Both the Faron Sea and the Necluda Sea transition into the Great Sea, but at which point one becomes the other is unclear. The players will not fully explore the Great Sea in this campaign, but an area or two may be accessible to allude to the larger world outside of the continent.
 

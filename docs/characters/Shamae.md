@@ -8,5 +8,5 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: Ashe (deceased grandfather)
 ---
-#npc 
+ #npc 
 

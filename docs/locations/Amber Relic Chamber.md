@@ -1,4 +1,4 @@
-#location [[Underground]]
+ #location [[Underground]]
 
 This area is locked behind the Amber Relic Door and is located primarily underneath the Akkala and Eldin regions.
 

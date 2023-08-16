@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster [[Bokoblins]]
+ #monster [[Bokoblins]]
 
 ```statblock
 image: [[https://www.gamerguides.com/assets/media/15/11072/bossbob-763bde2f.png]]

@@ -8,7 +8,7 @@ Comments: Gerudo School House (The Voe and You, Health and Wellness)
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

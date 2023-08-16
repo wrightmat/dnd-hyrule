@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #boss [[6. Abandoned Mine Dungeon]]
+ #monster #boss [[6. Abandoned Mine Dungeon]]
 
 ```statblock
 image: [[Wikilink To Image]]

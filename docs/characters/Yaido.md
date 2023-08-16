@@ -8,5 +8,5 @@ Comments: The Noble Canteen
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

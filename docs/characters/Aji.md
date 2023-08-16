@@ -10,7 +10,7 @@ Type: Medium
 Sexuality: Asexual
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d2/BotW_Aji_Model.png|200](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d2/BotW_Aji_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

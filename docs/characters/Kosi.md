@@ -7,7 +7,7 @@ Occupation: Blacksmith
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

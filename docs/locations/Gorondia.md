@@ -1,4 +1,4 @@
-#location #city  [[The Depths]]
+ #location #city  [[The Depths]]
 
 As YunoboCo's final act, Yunobo organized the company to dig a new shaft to the Depths of Hyrule and build an elevator to access the area. With the gloom completely receded after Ganondorf's defeat, the ancient city of Gorondia was ready to be re-inhabited by the Goron people.
 

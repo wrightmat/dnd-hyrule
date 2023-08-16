@@ -11,5 +11,5 @@ Relationships:
   - "[[Yona]] (mother)"
   - "[[Dorephan]] (grandfather)"
 ---
-#npc 
+ #npc 
 

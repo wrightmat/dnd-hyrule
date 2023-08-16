@@ -1,4 +1,4 @@
-#item 
+ #item 
 
 *Armor (shield), legendary (requires attunement)*
 

@@ -8,7 +8,7 @@ Comments: Torrin Tavern (Waiter and Bartender)
 Type: Minor
 Sexuality: Asexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

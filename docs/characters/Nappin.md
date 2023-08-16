@@ -7,5 +7,5 @@ Occupation: Innkeeper
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

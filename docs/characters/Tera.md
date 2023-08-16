@@ -5,5 +5,5 @@ Location: Gerudo Region
 Comments: Gerudo Desert
 Type:: Major
 ---
-#npc [[8. Great Fairy Tera]]
+ #npc [[8. Great Fairy Tera]]
 

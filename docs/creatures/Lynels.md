@@ -1,4 +1,4 @@
-#creature #monster [[Lomei Castle North]]
+ #creature #monster [[Lomei Castle North]]
 
 Lynels are known for their proficiency in trade (at least among other monsters), their raising of cold-footed wolves for food, and their blacksmith craft. They live in large yurt-like structures which are insulated with wolf pelts, or they take over ancient ruins that provide safety, such as the North Lomei Castle that now serves as their primary home.
 

@@ -1,4 +1,4 @@
-#item #ring 
+ #item #ring 
 
 *Ring, rarity varies (requires attunement)*
 

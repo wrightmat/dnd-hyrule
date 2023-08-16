@@ -8,7 +8,7 @@ Comments: Bozai's Rug Shop
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

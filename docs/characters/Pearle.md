@@ -8,5 +8,5 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Rotana]] (sister)"
 ---
-#npc 
+ #npc 
 

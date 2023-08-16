@@ -1,4 +1,4 @@
-#location #stable [[Eldin Canyon]]
+ #location #stable [[Eldin Canyon]]
 
 The primary animal tended here is dogs, which some of the stable residents befriend in order to track down treasure.
 

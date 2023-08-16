@@ -7,7 +7,7 @@ Occupation: Traveling Musician
 Type: Medium
 Relationships: "[[Great Deku Tree]] (grandfather)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

@@ -1,4 +1,4 @@
-#location #castle/fort [[Central Region]]
+ #location #castle/fort [[Central Region]]
 
 ![https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/12/breath-of-the-wild-mod-renovates-hyrule-castle.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5|800](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/12/breath-of-the-wild-mod-renovates-hyrule-castle.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5)
 

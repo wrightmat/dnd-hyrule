@@ -9,5 +9,5 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Harth]] (father)"
 ---
-#npc 
+ #npc 
 

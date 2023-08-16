@@ -11,5 +11,5 @@ Relationships:
   - "[[Karin]] (wife)"
   - "[[Anya]] (daughter)"
 ---
-#npc 
+ #npc 
 

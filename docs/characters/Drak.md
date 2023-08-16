@@ -9,7 +9,7 @@ Occupation: Miner
 Type: Minor
 Sexuality: Asexual
 ---
-#npc [[Goron Mining Company]]
+ #npc [[Goron Mining Company]]
 
 > [!infobox]
 > # `=this.file.name`

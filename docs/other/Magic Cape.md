@@ -1,4 +1,4 @@
-#item #cape
+ #item #cape
 
 *Wondrous item, epic (requires attunement)*
 

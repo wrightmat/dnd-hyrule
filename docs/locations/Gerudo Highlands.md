@@ -1,11 +1,9 @@
-#location [[Gerudo Region]]
+ #location [[Gerudo Region]]
 
 Gerudo Highlands surrounds the Gerudo Desert. Its cliffs sit to the east of the Desert and its tall, snowy mountains overlook the Desert to the north.
 
-```ad-info
-title: Extreme Cold
-A creature exposed to extreme cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
-```
+>[!info]- Extreme Cold
+> A creature exposed to extreme cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
 
 ### Locations
 

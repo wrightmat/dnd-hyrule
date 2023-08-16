@@ -10,5 +10,5 @@ Comments: Hotel Oasis
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

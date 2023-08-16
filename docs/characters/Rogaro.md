@@ -9,5 +9,5 @@ Type: Medium
 Sexuality: Asexual
 Relationships: "[[Pyle]] (unknown family member)"
 ---
-#npc 
+ #npc 
 

@@ -8,6 +8,6 @@ Type: Minor
 Sexuality: Heterosexual
 Adventure: "[[Trading Sequence]]"
 ---
-#npc 
+ #npc 
 
 Self-described Mystery Buff and Traveling Artist.

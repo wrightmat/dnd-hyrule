@@ -1,4 +1,4 @@
-#item #boots
+ #item #boots
 
 *Wondrous item, uncommon*
 

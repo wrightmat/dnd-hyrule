@@ -11,6 +11,6 @@ Relationships:
   - "[[Numar]] (father)"
   - Rozel (deceased grandfather)
 ---
-#npc 
+ #npc 
 
 Ralez is the young daughter of Numar who tends the Resort Ship, which was started by her father and named for her grandfather.

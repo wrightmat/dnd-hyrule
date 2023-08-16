@@ -1,4 +1,4 @@
-#lore #company [[Lon Lon Ranch]]
+ #lore #company [[Lon Lon Ranch]]
 
 ![https://static.frontiernav.net/user-content/the-legend-of-zelda-breath-of-the-wild/6VeuXimWkZkXQrQnPOPa0w.4580.png?size=128](https://static.frontiernav.net/user-content/the-legend-of-zelda-breath-of-the-wild/6VeuXimWkZkXQrQnPOPa0w.4580.png?size=128)
 

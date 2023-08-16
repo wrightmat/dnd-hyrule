@@ -10,5 +10,5 @@ Relationships:
   - "[[Fugo]] (apprentice, unknown family member)"
   - "[[Slergo]] (unknown family member)"
 ---
-#npc 
+ #npc 
 

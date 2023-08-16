@@ -6,5 +6,5 @@ Location: Gerudo Town
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

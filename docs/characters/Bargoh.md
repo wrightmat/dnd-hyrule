@@ -8,7 +8,7 @@ Type: Minor
 Sexuality: Asexual
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/df/BotW_Bargoh_Model.png|200](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/df/BotW_Bargoh_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

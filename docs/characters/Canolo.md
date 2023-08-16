@@ -8,7 +8,7 @@ Comments: Canolo Construction
 Type: Minor
 Sexuality: Homosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

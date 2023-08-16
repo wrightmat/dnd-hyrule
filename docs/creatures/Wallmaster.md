@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[http://www.zeldadungeon.net/wiki/images/thumb/c/c4/Wallmaster-Art.png/800px-Wallmaster-Art.png]]

@@ -1,4 +1,4 @@
-#location #tower [[Hyrule Field]]
+ #location #tower [[Hyrule Field]]
 
 Small military outpost outside of Windvane Village that keeps an eye on Central Hyrule.
 

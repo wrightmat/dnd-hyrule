@@ -9,5 +9,5 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Ralera]] (wife)"
 ---
-#npc 
+ #npc 
 

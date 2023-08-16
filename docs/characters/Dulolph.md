@@ -8,7 +8,7 @@ Comments: Prison
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

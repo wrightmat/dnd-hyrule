@@ -1,4 +1,4 @@
-#item #medal 
+ #item #medal 
 
 _Wondrous item, epic (requires attunement)_
 

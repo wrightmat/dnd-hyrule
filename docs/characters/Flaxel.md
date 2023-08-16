@@ -9,7 +9,7 @@ Occupation:
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc [[Soldiers' Guild]]
+ #npc [[Soldiers' Guild]]
 
 > [!infobox]
 > # `=this.file.name`

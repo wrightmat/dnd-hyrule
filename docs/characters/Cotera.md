@@ -8,7 +8,7 @@ Appearance: Yellow Hair
 Type: Major
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ae/BotW_Cotera_Model.png|300](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ae/BotW_Cotera_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

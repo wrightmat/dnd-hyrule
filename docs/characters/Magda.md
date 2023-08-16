@@ -7,5 +7,5 @@ Occupation: Florist
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

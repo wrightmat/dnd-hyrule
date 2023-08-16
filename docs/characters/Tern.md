@@ -9,6 +9,6 @@ Type: Major
 Sexuality: Heterosexual
 Relationships: "[[Marryn]] (daughter)"
 ---
-#npc 
+ #npc 
 
 Marryn's father and mayor of the village. He runs the Milk Bar and Inn during the day, where he sources the milk directly from Lon Lon Ranch.

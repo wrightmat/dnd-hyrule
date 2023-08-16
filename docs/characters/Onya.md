@@ -10,6 +10,6 @@ Relationships:
   - "[[Akrah]] (brother)"
   - "[[Garshon]] (brother)"
 ---
-#npc 
+ #npc 
 
 Onya and his brothers speculated about and studied Leviathan Bones in the time of the Calamity.

@@ -9,5 +9,5 @@ Relationships:
   - "[[Clavia]] (wife)"
   - "[[Karin]] (child)"
 ---
-#npc 
+ #npc 
 

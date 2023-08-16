@@ -7,5 +7,5 @@ Occupation: null
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

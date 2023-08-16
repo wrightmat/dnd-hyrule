@@ -9,5 +9,5 @@ Type: Medium
 Sexuality: Asexual
 Relationships: "[[Greyson]] (older brother)"
 ---
-#npc [[Hudson Construction]]
+ #npc [[Hudson Construction]]
 

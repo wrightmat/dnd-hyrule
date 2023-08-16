@@ -11,6 +11,6 @@ Comments: Hateno School House
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 
 Symin spends most of his time at the school house, but actually lives and does some extra work at the Hateno Ancient Tech Lab.

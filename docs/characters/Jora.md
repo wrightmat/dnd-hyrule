@@ -9,7 +9,7 @@ Occupation: Researcher
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 
 > [!infobox]
 > # `=this.file.name`

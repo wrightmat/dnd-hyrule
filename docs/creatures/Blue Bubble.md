@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0a/TWW_Blue_Bubble_Model.png]]

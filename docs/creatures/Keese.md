@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/35/TotK_Keese_Artwork.png]]

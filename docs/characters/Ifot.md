@@ -6,7 +6,7 @@ Location: Gerudo Town
 Comments: Gerudo School House
 Type: Minor
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

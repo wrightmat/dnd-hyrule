@@ -6,8 +6,9 @@ fc-date:
 session: 
 ---
 
-### Pre-Session Notes:
+### Pre-Session Notes
+
 * 
 
 
-### Post-Session Write-Up:
+### Post-Session Write-Up

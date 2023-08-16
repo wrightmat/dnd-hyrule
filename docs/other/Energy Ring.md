@@ -1,4 +1,4 @@
-#item #ring 
+ #item #ring 
 
 *Wondrous item, common*
 

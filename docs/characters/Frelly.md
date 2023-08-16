@@ -9,7 +9,7 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: Kohm (deceased mother)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

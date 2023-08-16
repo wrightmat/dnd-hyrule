@@ -1,4 +1,4 @@
-#location #town [[East Necluda]]
+ #location #town [[East Necluda]]
 
 Found in the fairly peaceful region far to the east of Central Hyrule, Hateno was largely untouched by the Calamity and the Upheaval, and serves as one of the main Hylian towns. Hateno has grown quite a bit in the last few decades, expanding westward into the space between the town and Fort Hateno proper, which now serves as more of an entry gate. This space in between is primarily farm fields, with some houses thrown in - and is known as the pasture and granary. The older businesses remain in their same locations, and a few new businesses have been added - such as Karson's carpentry shop and the Zephyr Tavern.
 

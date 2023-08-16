@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f3/HW_Hylian_Soldier_Model.png]]

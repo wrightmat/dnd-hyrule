@@ -8,7 +8,7 @@ Comments: Kara Kara Bazaar Inn
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

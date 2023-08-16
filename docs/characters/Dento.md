@@ -9,7 +9,7 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Marot]] (granddaughter)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

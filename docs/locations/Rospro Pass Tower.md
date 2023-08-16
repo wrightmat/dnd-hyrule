@@ -1,4 +1,4 @@
-#location #tower [[Hebra Mountains]]
+ #location #tower [[Hebra Mountains]]
 
 Small military outpost stationed to protect the Hebra region.
 

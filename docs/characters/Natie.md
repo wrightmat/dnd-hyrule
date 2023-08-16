@@ -5,5 +5,5 @@ Occupation: Shop Owner
 Comments: Spore Store
 Type: Medium
 ---
-#npc 
+ #npc 
 

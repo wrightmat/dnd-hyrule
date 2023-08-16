@@ -1,4 +1,4 @@
-#location [[Akkala Region]]
+ #location [[Akkala Region]]
 
 The Akkala Highlands are a sub-region of Akkala Region, comprised of the southern area of the region.
 

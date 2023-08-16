@@ -2,7 +2,7 @@
 Recommended-Order: 8
 ---
 
-#location #region [[Hyrule]]
+ #location #region [[Hyrule]]
 
 The Gerudo region is made up of the Gerudo Desert and the Gerudo Highlands. It is home of the Gerudo people and the original home of the villainous Yiga Clan.
 

@@ -7,6 +7,6 @@ Occupation: King's Military Advisor
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 Seggin was a sergeant of the Zora Royal Guard, as well as the original Mipha's martial instructor. Now in his advanced years, he has become the King's Military Advisor.

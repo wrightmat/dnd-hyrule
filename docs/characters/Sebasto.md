@@ -11,5 +11,5 @@ Relationships:
   - "[[Zuta]] (son)"
   - "[[Kinov]] (son)"
 ---
-#npc 
+ #npc 
 

@@ -1,4 +1,4 @@
-#location [[Necluda Region]]
+ #location [[Necluda Region]]
 
 East Necluda is a region of Necluda, extending into Faron and Lanayru.
 

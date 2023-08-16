@@ -7,5 +7,5 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Sophie]] (daughter)"
 ---
-#npc 
+ #npc 
 

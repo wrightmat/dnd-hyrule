@@ -10,5 +10,5 @@ Relationships:
   - "[[Tamana]] (wife)"
   - "[[Teebo]] (son)"
 ---
-#npc 
+ #npc 
 

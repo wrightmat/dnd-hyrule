@@ -7,6 +7,6 @@ Occupation: Shield Surfer
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 Selmie lives in a cabin and has set up a Shield Surfing challenge course.

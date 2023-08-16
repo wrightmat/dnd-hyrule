@@ -9,5 +9,5 @@ Occupation:
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

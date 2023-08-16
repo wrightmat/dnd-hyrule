@@ -6,5 +6,5 @@ Location: Goponga Village
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

@@ -7,5 +7,5 @@ Occupation: Stable Owner
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

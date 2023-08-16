@@ -8,5 +8,5 @@ Comments: Goron Gusto Shop
 Type: Medium
 Sexuality: Asexual
 ---
-#npc 
+ #npc 
 

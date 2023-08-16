@@ -7,5 +7,5 @@ Occupation: Doctor
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #boss [[3. Frozen Cave Dungeon]]
+ #monster #boss [[3. Frozen Cave Dungeon]]
 
 ```statblock
 image: [[Wikilink To Image]]

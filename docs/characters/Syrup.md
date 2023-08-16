@@ -9,6 +9,6 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Moli]] (daughter)"
 ---
-#npc 
+ #npc 
 
 Moli's elderly mother and teacher, who still lives with her at The Witch's Hut.

@@ -11,7 +11,7 @@ Relationships:
   - "[[Kayden]] (father)"
   - Kodah (deceased mother)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

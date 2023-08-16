@@ -10,5 +10,5 @@ Relationships:
   - Sage of Fire (deceased ancestor)
   - Daruk (deceased grandfather)
 ---
-#npc 
+ #npc 
 

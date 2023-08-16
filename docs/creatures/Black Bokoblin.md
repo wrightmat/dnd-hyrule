@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster [[Bokoblins]]
+ #monster [[Bokoblins]]
 
 ```statblock
 image: [[https://www.zeldadungeon.net/wiki/images/b/bf/Black-Bokoblin-Model.png]]

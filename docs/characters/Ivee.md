@@ -12,7 +12,7 @@ Relationships:
   - "[[Azu]] (brother)"
   - Pruce (deceased father)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

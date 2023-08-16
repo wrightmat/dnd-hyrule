@@ -7,5 +7,5 @@ Occupation: Traveler
 Type: Minor
 Sexuality: Asexual
 ---
-#npc 
+ #npc 
 

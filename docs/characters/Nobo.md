@@ -7,5 +7,5 @@ Occupation: Stable Worker
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

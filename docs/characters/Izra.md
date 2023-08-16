@@ -10,7 +10,7 @@ Relationships:
   - "[[Ami]] (brother)"
   - "[[Yolero]] (brother)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

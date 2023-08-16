@@ -1,4 +1,4 @@
-#location #tower [[Lanayru Great Spring]]
+ #location #tower [[Lanayru Great Spring]]
 
 Small military outpost stationed to protect the Lanayru region.
 

@@ -7,5 +7,5 @@ Occupation: Chief of the Gerudo
 Type: Major
 Sexuality: Bisexual
 ---
-#npc 
+ #npc 
 

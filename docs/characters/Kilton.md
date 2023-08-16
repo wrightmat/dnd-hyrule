@@ -11,7 +11,7 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Koltin]] (brother)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

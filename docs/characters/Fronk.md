@@ -12,7 +12,7 @@ Relationships:
   - "[[Keye]] (son)"
   - Mei (deceased wife)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

@@ -7,7 +7,7 @@ Occupation: Innkeeper
 Sexuality: Heterosexual
 Type: Medium
 ---
-#npc [[Hudson Construction]]
+ #npc [[Hudson Construction]]
 
 > [!infobox]
 > # `=this.file.name`

@@ -1,4 +1,4 @@
-#lore #faction
+ #lore #faction
 
 ![https://static.wikia.nocookie.net/zelda/images/c/c9/RoyalCrestHyruleFamily.png|380](https://static.wikia.nocookie.net/zelda/images/c/c9/RoyalCrestHyruleFamily.png)
 Symbol:: Bird with wings outspread, topped with a Triforce

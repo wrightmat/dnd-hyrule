@@ -8,7 +8,7 @@ Comments: Gerudo Secret Club
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

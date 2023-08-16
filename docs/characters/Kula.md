@@ -3,7 +3,7 @@ Race: Korok
 Location: Korok Forest
 Type: Minor
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

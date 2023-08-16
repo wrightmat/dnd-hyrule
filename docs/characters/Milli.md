@@ -7,6 +7,6 @@ Occupation: Traveling Farmer
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 Milli is a young Hylian woman whose family farms peat at Ludfo's Bog.

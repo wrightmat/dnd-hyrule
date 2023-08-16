@@ -5,7 +5,7 @@ Occupation: Shop Owner
 Comments: General Shoppe
 Type: Medium
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

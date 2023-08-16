@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/46/LANS_Hardhat_Beetle_Artwork.png]]

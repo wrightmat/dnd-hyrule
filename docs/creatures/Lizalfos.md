@@ -1,4 +1,4 @@
-#monster 
+ #monster 
 
 These creatures highly resemble humanoid versions of chameleons. Like many monstrous humanoids, they wander the wastes and fields of Hyrule on a never-ending hunt for meat and ill-gotten gains. They are somewhat organized, usually functioning in small groups of three to a dozen, and live in makeshift caves or fortresses.
 

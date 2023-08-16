@@ -9,7 +9,7 @@ Occupation: Traveler
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc [[Deku Protectorate]]
+ #npc [[Deku Protectorate]]
 
 > [!infobox]
 > # `=this.file.name`

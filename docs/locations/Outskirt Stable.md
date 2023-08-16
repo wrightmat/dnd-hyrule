@@ -1,4 +1,4 @@
-#location #stable [[Hyrule Field]]
+ #location #stable [[Hyrule Field]]
 
 >Rumors linger that Outskirt Stable is the least... reputable stable remaining in Hyrule. It's said that the stable only still exists due to its proximity to the Coliseum that's recently come back in to use. A strange man is often seen there at night, chatting up whoever will talk.
 

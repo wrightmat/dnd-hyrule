@@ -1,4 +1,4 @@
-#location [[Necluda Region]]
+ #location [[Necluda Region]]
 
 The Necluda Sea is located at the southeast end of Hyrule where it completely surrounds Tenoko Island and Eventide Island. The Necluda Sea borders the Lanayru Sea to the north and the Faron Sea to the west. It extends through much of the south coast, as far west as Martha's Landing.
 

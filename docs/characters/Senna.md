@@ -11,5 +11,5 @@ Relationships:
   - "[[Sefaro]] (son)"
   - Sayge (deceased husband)
 ---
-#npc 
+ #npc 
 

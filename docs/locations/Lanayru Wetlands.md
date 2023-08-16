@@ -1,4 +1,4 @@
-#location [[Lanayru Region]]
+ #location [[Lanayru Region]]
 
 Lanayru Wetlands is a district, largely formed by moorland, in the westernmost part of Lanayru province, which both major rivers from Lanayru Great Spring flow into. It contains one the largest bodies of freshwater in Hyrule in terms of area, similar on size to Lake Hylia but considerably shallower, as ~70% of said area is just knee-deep.
 

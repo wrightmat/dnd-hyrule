@@ -2,7 +2,7 @@
 Recommended-Order: 4
 ---
 
-#location #region [[Hyrule]]
+ #location #region [[Hyrule]]
 
 Lanayru is the wet and wild heart of Hyrule, and the home of the proud Zora people. Ancient ruins such as Lanayru Road and the Spring of Wisdom dot the landscape. A small fishing village popped up recently, but has already run into trouble. The region is protected by the Dragon Naydra who files over periodically.
 

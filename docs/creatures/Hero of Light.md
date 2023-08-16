@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #miniboss [[8. Shrine of the Seven Dungeon]] [[Phantom Heroes]]
+ #monster #miniboss [[8. Shrine of the Seven Dungeon]] [[Phantom Heroes]]
 
 ```statblock
 layout: Party Scaled 5e Layout

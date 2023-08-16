@@ -7,5 +7,5 @@ Occupation: Architect
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

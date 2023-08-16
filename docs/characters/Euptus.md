@@ -8,7 +8,7 @@ Comments: Fort Hateno
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc [[Soldiers' Guild]]
+ #npc [[Soldiers' Guild]]
 
 > [!infobox]
 > # `=this.file.name`

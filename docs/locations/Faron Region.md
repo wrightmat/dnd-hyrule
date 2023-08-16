@@ -2,7 +2,7 @@
 Recommended-Order: 3
 ---
 
-#location #region [[Hyrule]]
+ #location #region [[Hyrule]]
 
 Faron Region is a large tropical jungle area in the far southeastern part of Hyrule, to the East of Lake Hylia and South of Hateno. Faron is comprised of dense jungle trees and high cliffs and peaks - and full of dangerous monsters. The region is protected by the Dragon Farosh who flies over periodically.
 

@@ -11,7 +11,7 @@ Relationships:
   - "[[Atin]] (husband)"
   - "[[Tisam]] (daughter)"
 ---
-#npc [[Soldiers' Guild]]
+ #npc [[Soldiers' Guild]]
 
 > [!infobox]
 > # `=this.file.name`

@@ -8,7 +8,7 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Molli]] (daughter)"
 ---
-#npc [[Fokka Knights]]
+ #npc [[Fokka Knights]]
 
 > [!infobox]
 > # `=this.file.name`

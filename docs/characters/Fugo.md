@@ -10,7 +10,7 @@ Relationships:
   - "[[Rohan]] (mentor, unknown family member)"
   - "[[Slergo]] (unknown family member)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

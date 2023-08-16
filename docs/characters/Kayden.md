@@ -11,7 +11,7 @@ Relationships:
   - "[[Finley]] (daughter)"
   - Kodah (deceased wife)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

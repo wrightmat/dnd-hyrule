@@ -12,7 +12,7 @@ Relationships:
   - Danda (deceased grandmother)
   - Unnamed mother
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

@@ -10,5 +10,5 @@ Comments:
 Type: Medium
 Sexuality: Asexual
 ---
-#npc 
+ #npc 
 

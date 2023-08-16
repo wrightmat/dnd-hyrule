@@ -7,5 +7,5 @@ Occupation: Cuccoo Farmer
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

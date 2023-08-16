@@ -13,5 +13,5 @@ Comments: Lucky Clover Chronicle
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

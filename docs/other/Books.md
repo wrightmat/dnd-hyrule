@@ -1,4 +1,4 @@
-#lore 
+ #lore 
 
 A number of books can be found throughout the realm, especially in places like libraries and research areas. Roll on the random table below or select an appropriate book when players need one.
 

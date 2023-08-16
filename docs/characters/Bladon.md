@@ -10,7 +10,7 @@ Sexuality: Asexual
 Relationships: "[[Gonguron]] (Younger Brother)"
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b8/BotW_Bladon_Model.png|200](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b8/BotW_Bladon_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

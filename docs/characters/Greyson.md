@@ -8,7 +8,7 @@ Type: Minor
 Sexuality: Asexual
 Relationships: "[[Pelison]] (younger brother)"
 ---
-#npc [[Hudson Construction]]
+ #npc [[Hudson Construction]]
 
 > [!infobox]
 > # `=this.file.name`

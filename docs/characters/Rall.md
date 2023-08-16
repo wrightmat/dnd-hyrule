@@ -6,5 +6,5 @@ Location: Hateno Town
 Comments: Hateno School House
 Type: Minor
 ---
-#npc 
+ #npc 
 

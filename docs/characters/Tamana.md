@@ -10,5 +10,5 @@ Relationships:
   - "[[Teebo]] (son)"
   - "[[Thadd]] (husband)"
 ---
-#npc 
+ #npc 
 

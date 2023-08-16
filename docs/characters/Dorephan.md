@@ -13,7 +13,7 @@ Relationships:
   - Unnamed wife (deceased)
   - Mipha (deceased daughter)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

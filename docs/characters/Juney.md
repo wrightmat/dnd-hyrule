@@ -9,7 +9,7 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Jogo]] (husband)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

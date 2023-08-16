@@ -11,7 +11,7 @@ Relationships:
   - "[[Lasli]] (younger sister)"
   - Nanna (deceased grandmother)
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 
 > [!infobox]
 > # `=this.file.name`

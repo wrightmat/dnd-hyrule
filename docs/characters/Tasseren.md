@@ -12,5 +12,5 @@ Relationships:
   - "[[Shibo]] (nephew)"
   - Rensa (deceased younger twin brother)
 ---
-#npc [[Epona Co.]]
+ #npc [[Epona Co.]]
 

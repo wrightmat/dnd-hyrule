@@ -10,7 +10,7 @@ Relationships:
   - "[[Akrah]] (Brother)"
   - "[[Onya]] (Brother)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

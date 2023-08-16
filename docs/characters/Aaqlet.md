@@ -11,7 +11,7 @@ Type: Minor
 Sexuality: Heterosexual
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/62/TotK_Aaqlet_Model.jpeg|100](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/62/TotK_Aaqlet_Model.jpeg)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

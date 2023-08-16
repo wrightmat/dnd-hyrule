@@ -7,6 +7,6 @@ Occupation: Traveler
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 Originally from Lurelin Village.

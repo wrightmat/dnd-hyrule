@@ -8,5 +8,5 @@ Type: Minor
 Sexuality: Heterosexual
 Adventure: "[[Trading Sequence]]"
 ---
-#npc 
+ #npc 
 

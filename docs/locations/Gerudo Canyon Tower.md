@@ -1,4 +1,4 @@
-#location #tower [[Gerudo Highlands]]
+ #location #tower [[Gerudo Highlands]]
 
 Small military outpost stationed to protect the Gerudo region.
 

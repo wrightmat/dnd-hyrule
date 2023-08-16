@@ -9,5 +9,5 @@ Type: Medium
 Sexuality: Asexual
 Relationships: "[[Rogaro]] (unknown family member)"
 ---
-#npc 
+ #npc 
 

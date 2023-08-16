@@ -5,4 +5,4 @@ Occupation: Innkeeper
 Comments: Great Deku Tree's Navel
 Type: Medium
 ---
-#npc 
+ #npc 

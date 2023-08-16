@@ -7,7 +7,7 @@ Occupation: Shop Owner
 Type: Minor
 Sexuality: Bisexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

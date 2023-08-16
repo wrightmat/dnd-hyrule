@@ -8,6 +8,6 @@ Type: Medium
 Sexuality: Homosexual
 Adventure: "[[Trading Sequence]]"
 ---
-#npc 
+ #npc 
 
 Mr. Write spends most of his time in his house, writing letters to people around Hyrule rather than traveling.

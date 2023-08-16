@@ -1,4 +1,4 @@
-#location #town [[Akkala Region]]
+ #location #town [[Akkala Region]]
 
 Akkala Citadel Town
 

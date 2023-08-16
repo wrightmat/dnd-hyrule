@@ -10,7 +10,7 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Kilton]] (brother)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

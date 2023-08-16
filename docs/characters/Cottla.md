@@ -11,7 +11,7 @@ Relationships:
   - "[[Koko]] (older sister)"
   - Unnamed mother (deceased)
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 
 > [!infobox]
 > # `=this.file.name`

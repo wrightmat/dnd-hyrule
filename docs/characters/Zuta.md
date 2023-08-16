@@ -8,5 +8,5 @@ Comments: Inn and Salt Spa
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

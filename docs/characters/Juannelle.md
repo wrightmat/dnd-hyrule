@@ -11,7 +11,7 @@ Relationships:
   - "[[Douma]] (sister)"
   - "[[Traysi]] (sister)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

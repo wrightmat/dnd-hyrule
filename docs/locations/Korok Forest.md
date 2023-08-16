@@ -1,8 +1,9 @@
-#location #village [[Great Hyrule Forest]]
+ #location #village [[Great Hyrule Forest]]
 
 The Great Deku Tree can be found in the middle of Korok Forest. The Koroks who live there reside both in and around the Great Deku Tree. To call it "village" is a bit of a stretch, as it lacks buildings or homes, with the Koroks apparently preferring to live in a natural setting.
 
 ### Locations
+
 - Great Deku Tree
 - General Shoppe
 	- Hylian Rice

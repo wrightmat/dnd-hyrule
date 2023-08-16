@@ -1,4 +1,4 @@
-#item #medal 
+ #item #medal 
 
 _Wondrous item, uncommon (requires attunement)_
 

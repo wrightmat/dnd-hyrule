@@ -7,7 +7,7 @@ Occupation: Guard
 Type: Minor
 Sexuality: Homosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

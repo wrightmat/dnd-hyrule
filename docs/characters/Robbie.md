@@ -12,5 +12,5 @@ Relationships:
   - "[[Jerrin]] (wife)"
   - "[[Grantéson]] (son)"
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 

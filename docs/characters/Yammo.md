@@ -7,5 +7,5 @@ Occupation: Shield Surfer
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

@@ -2,7 +2,7 @@
 Recommended-Order: 1
 ---
 
-#location #region [[Hyrule]]
+ #location #region [[Hyrule]]
 
 Central Hyrule is the central region of Hyrule Kingdom, containing the Great Plateau, Hyrule Field and Hyrule Ridge. Central Hyrule was burned in the Great Calamity over a hundred years ago, but has since rebuilt considerably.
 

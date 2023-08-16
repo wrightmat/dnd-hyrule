@@ -7,5 +7,5 @@ Occupation: Traveling Merchant
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

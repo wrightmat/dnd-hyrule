@@ -7,5 +7,5 @@ Occupation: Gamemaster?
 Type: Minor
 Sexuality: Asexual
 ---
-#npc 
+ #npc 
 

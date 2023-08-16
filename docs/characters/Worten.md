@@ -11,7 +11,7 @@ Relationships:
   - "[[Prima]] (wife)"
   - "[[Nevia]] (daughter)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

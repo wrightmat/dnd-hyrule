@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/Hyrule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3af5682205b02ca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Masters of the Esoteric Arts.md",
+                "file": "docs/Masters of the Esoteric Arts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 318.5
   },
   "right": {
     "id": "f240dac5ef673dba",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Masters of the Esoteric Arts.md",
+                "file": "docs/Masters of the Esoteric Arts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Masters of the Esoteric Arts.md",
+                "file": "docs/Masters of the Esoteric Arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Masters of the Esoteric Arts.md"
+                "file": "docs/Masters of the Esoteric Arts.md"
               }
             }
           },
@@ -163,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,44 +166,53 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "3af5682205b02ca6",
+  "active": "df4f52ce7948aec9",
   "lastOpenFiles": [
-    "creatures/Dodongo.md",
-    "creatures/Pebblit.md",
-    "creatures/Red Hinox.md",
-    "creatures/Hinoxes.md",
-    "creatures/Baby Dodongo.md",
-    "adventures/Trading Sequence.md",
-    "locations/Lurelin Village.md",
-    "other/Lens of Truth.md",
-    "characters/Paya.md",
-    "characters/Vilia.md",
-    "characters/Frita.md",
-    "characters/Saki.md",
-    "characters/Zorona.md",
-    "characters/Atin.md",
-    "characters/Kyra.md",
-    "characters/Tasseren.md",
-    "characters/Mr. Write.md",
-    "characters/Tumbo.md",
-    "characters/Babson.md",
-    "characters/Kinov.md",
-    "locations/Tabantha Bridge Stable.md",
-    "characters/Aliza.md",
-    "locations/Rito Village.md",
-    "locations/Korok Forest.md",
-    "characters/Chio.md",
-    "locations/Goron City.md",
+    "docs/locations/Hyrule.md",
+    "docs/locations/Highland Stable.md",
+    "docs/Masters of the Esoteric Arts.md",
+    "docs/characters/Tottika.md",
+    "docs/characters/Traysi.md",
+    "docs/characters/Trott.md",
+    "docs/characters/Tula.md",
+    "docs/characters/Tulin.md",
+    "docs/characters/Tumbo.md",
+    "docs/characters/Tye.md",
+    "docs/characters/Varke.md",
+    "docs/characters/Veria.md",
+    "docs/characters/Verla.md",
+    "docs/characters/Vilia.md",
+    "docs/characters/Violynne.md",
+    "docs/characters/Wabbin.md",
+    "docs/characters/Walton.md",
+    "docs/characters/Warbos.md",
+    "docs/characters/Whittlee.md",
+    "docs/characters/Worten.md",
+    "docs/characters/Wortsworth.md",
+    "docs/characters/Yaido.md",
+    "docs/characters/Yammo.md",
+    "docs/characters/Yolero.md",
+    "docs/characters/Yona.md",
+    "docs/characters/Yunobo.md",
+    "docs/_pdf",
+    "docs/New folder",
+    "docs/_img/hyrule-surface/4-9-8.png",
+    "docs/_img/hyrule-surface/4-9-9.png",
+    "docs/_img/hyrule-surface/4-9-7.png",
+    "docs/_img/hyrule-surface/4-9-6.png",
+    "docs/_img/hyrule-surface/4-9-4.png",
+    "docs/_img/hyrule-surface/4-9-5.png",
+    "docs/_img/hyrule-surface/4-9-3.png",
+    "docs/_img/hyrule-surface/4-9-2.png",
+    "docs/_img/hyrule-surface/4-9-15.png",
+    "docs/_img/hyrule-surface/4-9-14.png",
+    "docs/_img/hyrule-surface",
+    "docs/_img",
     "_srd/spells",
     "_srd/races",
     "_srd/npcs",
     "_srd/monsters",
     "_srd/items",
-    "_srd/creatures",
-    "_srd/classes",
-    "_srd",
-    "Pasted image 20230612090647.png",
-    "_templates",
-    "_ref"
+    "_srd/creatures"
   ]
 }

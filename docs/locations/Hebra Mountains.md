@@ -1,12 +1,9 @@
-#location [[Hebra Region]]
+ #location [[Hebra Region]]
 
 The Hebra Mountains are a very cold and mountainous area in the north of the Hebra Region with lots of peaks and summits to climb. The area also has large snow-covered slopes, making it an ideal Shield Surfing location. Despite the extreme cold, the Hebra Mountains are littered with Hot Springs; none of the remaining lakes have hazardously cold water, and the ones above ground are flanked with powerful updraft vents. 
 
-```ad-info
-title: Extreme Cold
-
-A creature exposed to extreme cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
-```
+>[!info]- Extreme Cold
+> A creature exposed to extreme cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
 
 ### Locations
 

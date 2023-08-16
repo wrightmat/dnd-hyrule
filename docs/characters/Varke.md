@@ -6,5 +6,5 @@ Location: Rito Village
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9d/OoT_Dodongo_Artwork.png]]

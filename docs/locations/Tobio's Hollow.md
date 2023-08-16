@@ -1,4 +1,4 @@
-#location [[Faron Region]]
+ #location [[Faron Region]]
 
 One of the few remaining accesses to the Depths of Hyrule is at Tobio's Hollow, where Link uncovered the access while saving Hyrule from the events of the Upheaval. After the Upheaval, the sky debris and islands pieces that had fallen returned to the sky, but this was a more ancient piece of Zonai ruins that belonged on the Surface, and so it remained.
 

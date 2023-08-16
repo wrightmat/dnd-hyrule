@@ -8,5 +8,5 @@ Comments: Captain of the Guard
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

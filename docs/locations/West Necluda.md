@@ -1,4 +1,4 @@
-#location [[Necluda Region]]
+ #location [[Necluda Region]]
 
 West Necluda is a location found in Breath of the Wild to the East of the Great Plateau. The region is home to the remaining Sheikah Tribe who live in the mountainous Kakariko Village as well as the great Dueling Peaks, a mountain split down the middle with a river flowing through it and its neighbouring stable (Dueling Peaks Stable) at its base.
 

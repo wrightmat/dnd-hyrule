@@ -13,7 +13,7 @@ Relationships:
   - "[[Emerson]] (son)"
   - "[[Jayson]] (son)"
 ---
-#npc #goron [[Hudson Construction]]
+ #npc #goron [[Hudson Construction]]
 
 > [!infobox]
 > # `=this.file.name`

@@ -1,4 +1,4 @@
-#lore #faction
+ #lore #faction
 
 ![https://i.imgur.com/9g0STYi.png|280](https://i.imgur.com/9g0STYi.png)
 Symbol:: A stylized sword with two heads

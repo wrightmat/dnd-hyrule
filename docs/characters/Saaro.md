@@ -6,5 +6,5 @@ Occupation: Blacksmith
 Comments: Subrosia Smithy. Blue robe.
 Type: Medium
 ---
-#npc 
+ #npc 
 

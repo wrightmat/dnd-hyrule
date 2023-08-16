@@ -8,7 +8,7 @@ Comments: Fort Hateno
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc [[Champions of Hyrule]]
+ #npc [[Champions of Hyrule]]
 
 > [!infobox]
 > # `=this.file.name`

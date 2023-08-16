@@ -1,4 +1,4 @@
-#location #village [[West Necluda]]
+ #location #village [[West Necluda]]
 
 Kakariko is a settlement in the West Necluda region of Hyrule, north of the Dueling Peaks. It is the home of most of the living Sheikah in Hyrule.
 

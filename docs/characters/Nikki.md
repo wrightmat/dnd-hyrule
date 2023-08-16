@@ -10,7 +10,7 @@ Relationships:
   - "[[Nebb]] (son)"
   - "[[Narah]] (daughter)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

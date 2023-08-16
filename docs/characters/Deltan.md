@@ -8,7 +8,7 @@ Comments: The Noble Canteen
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

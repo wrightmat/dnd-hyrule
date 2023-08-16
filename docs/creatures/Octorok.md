@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.zeldadungeon.net/wiki/images/d/d3/Water-Octorok.png]]

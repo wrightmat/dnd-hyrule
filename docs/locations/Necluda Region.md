@@ -2,7 +2,7 @@
 Recommended-Order: 2
 ---
 
-#location #region [[Hyrule]]
+ #location #region [[Hyrule]]
 
 Necluda is a region split into three parts - West Necluda, East Necluda, and the Necluda Sea - all three of which are directly east of the Great Plateau. It is home to two of the most significant villages in Hyrule and will likely be the first location the players visit (as well as potentially their home base). The region is protected by Great Fairy Cotera who resides near Kakariko Village.
 

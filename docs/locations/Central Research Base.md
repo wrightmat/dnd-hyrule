@@ -1,4 +1,4 @@
-#location [[Hyrule Field]]
+ #location [[Hyrule Field]]
 
 The former Sacred Grounds, a ruined fountain from ancient times, was converted into a research base and observation post known as Lookout Landing during the Upheaval. When Purah returned to Kakariko Village (and eventually on to Hateno where she resides now) after things returned to normal, Josha decided to stay behind and turn the Emergency Shelter under the ruins into a permanent research base that would be safe from any future major catastrophes.
 

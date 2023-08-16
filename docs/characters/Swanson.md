@@ -7,5 +7,5 @@ Occupation: Mechanic
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc [[Hudson Construction]]
+ #npc [[Hudson Construction]]
 

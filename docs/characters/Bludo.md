@@ -8,7 +8,7 @@ Type: Major
 Sexuality: Asexual
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/25/BotW_Bludo_Model.png|300](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/25/BotW_Bludo_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

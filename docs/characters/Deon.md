@@ -7,7 +7,7 @@ Occupation: Cook
 Type: Minor
 Sexuality: Bisexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

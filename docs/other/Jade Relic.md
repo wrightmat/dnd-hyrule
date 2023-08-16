@@ -1,4 +1,4 @@
-#item #relic 
+ #item #relic 
 
 The Jade Relic is a green magatama-shaped stone relic that's said to come from ancient times. The exact origin and use is unknown, but it's said to unlock something special.
 

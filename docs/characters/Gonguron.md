@@ -9,7 +9,7 @@ Type: Medium
 Sexuality: Asexual
 Relationships: "[[Bladon]] (Elder Brother)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

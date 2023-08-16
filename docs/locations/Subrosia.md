@@ -1,4 +1,4 @@
-#location #city [[Underground]]
+ #location #city [[Underground]]
 
 Subrosia is a subterranean lava world located beneath the Underground of Hyrule, and is home to the Subrosians. This area serves as a refuse and base for the party while Underground, prior to descending to The Depths to face the Final Battle.
 

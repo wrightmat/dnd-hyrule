@@ -1,4 +1,4 @@
-#district [[Central Region]]
+ #district [[Central Region]]
 
 The Great Plateau, with its seat well above the rest of the land, serves as central protectorate of Hyrule. While Hyrule Castle is home to its governmental might, and Akkala Citadel houses its young and exuberant military power, the heart of Hyrule contains the ancient wisdom of both the elder soldiers (at the rebuilt Temple of Time) and its oldest sages (at the rebuilt Eastern Abbey). These serve as the martial and magical arms of the Champions of Hyrule.
 

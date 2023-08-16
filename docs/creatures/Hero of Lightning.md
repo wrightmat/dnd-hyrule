@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #miniboss [[7. Thundra Plateau Dungeon]] [[Phantom Heroes]]
+ #monster #miniboss [[7. Thundra Plateau Dungeon]] [[Phantom Heroes]]
 
 ```statblock
 layout: Party Scaled 5e Layout

@@ -7,5 +7,5 @@ Occupation: Chief Translator
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 

@@ -10,5 +10,5 @@ Relationships:
   - "[[Hudson]] (husband)"
   - "[[Mattison]] (daughter)"
 ---
-#npc [[Hudson Construction]]
+ #npc [[Hudson Construction]]
 

@@ -11,7 +11,7 @@ Relationships:
   - Bolson (deceased father)
   - Unknown mother (adopted)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

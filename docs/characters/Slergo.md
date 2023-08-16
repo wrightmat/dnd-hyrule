@@ -12,5 +12,5 @@ Relationships:
   - "[[Rohan]] (unknown family member)"
   - "[[Fugo]] (unknown family member)"
 ---
-#npc [[Goron Mining Company]]
+ #npc [[Goron Mining Company]]
 

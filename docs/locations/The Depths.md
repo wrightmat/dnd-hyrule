@@ -2,7 +2,7 @@
 Recommended-Order: 10
 ---
 
-#location #region [[Hyrule]]
+ #location #region [[Hyrule]]
 
 The Depths are the deepest underground system underneath Hyrule that was uncovered during the Upheaval. After the Demon King was destroyed, the chasms that allowed access to The Depths closed, so access to the area is once again restricted.
 

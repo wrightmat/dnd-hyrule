@@ -10,7 +10,7 @@ Relationships:
   - "[[Robbie]] (husband)"
   - "[[Grantéson]] (son)"
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 
 > [!infobox]
 > # `=this.file.name`

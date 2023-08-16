@@ -2,7 +2,7 @@
 Recommended-Order: 7
 ---
 
-#location #region [[Hyrule]]
+ #location #region [[Hyrule]]
 
 Hebra is a vast region covering the northwestern corner of Hyrule. The Region is very mountainous but also has vast expanses of flat terrain.
 

@@ -9,5 +9,5 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Dento]] (grandfather)"
 ---
-#npc 
+ #npc 
 

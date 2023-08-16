@@ -1,4 +1,4 @@
-#location [[Faron Region]]
+ #location [[Faron Region]]
 
 The Faron Sea is the sea off the western part of Hyrule's south coast, notionally part of Faron but also bordering eastern Gerudo.
 

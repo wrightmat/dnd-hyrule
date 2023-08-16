@@ -6,5 +6,5 @@ Occupation: Shop Owner
 Comments: Green cloak with a large blue bow.
 Type: Medium
 ---
-#npc 
+ #npc 
 

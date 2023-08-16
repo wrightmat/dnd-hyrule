@@ -8,6 +8,6 @@ Occupation: Ranch Owner
 Type: Major
 Relationships: "[[Gaira]] (wife)"
 ---
-#npc 
+ #npc 
 
 Marryn is the owner of the ranch, who loves to sing in her spare time, or while doing idle work.

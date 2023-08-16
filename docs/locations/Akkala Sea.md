@@ -1,4 +1,4 @@
-#location [[Akkala Region]]
+ #location [[Akkala Region]]
 
 The Akkala Sea is the area of ocean found to the north-east of Hyrule, off the shores of Akkala Province.
 

@@ -8,5 +8,5 @@ Type: Minor
 Sexuality: Asexual
 Relationships: "[[Boldon]] (brother)"
 ---
-#npc 
+ #npc 
 

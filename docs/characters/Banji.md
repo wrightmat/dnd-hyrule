@@ -7,7 +7,7 @@ Occupation: Stable Worker
 Type: Minor
 Sexuality: Bisexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

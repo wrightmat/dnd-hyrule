@@ -7,6 +7,6 @@ Occupation: Gamemaster
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 Nokala runs the River Rapids Challenge at Hebra Plunge.

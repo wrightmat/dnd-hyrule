@@ -2,7 +2,7 @@
 Recommended-Order: 9
 ---
 
-#location #region  [[Hyrule]]
+ #location #region  [[Hyrule]]
 
 Underground Hyrule has been barely explored in thousands of years, and now it appears that an evil power is emanating from somewhere down there. A great series of underground caverns can be accessed from an elevator constructed at Tobio's Hollow in the Faron Region, which opens into a large central chamber.
 

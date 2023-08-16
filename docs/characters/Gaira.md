@@ -8,7 +8,7 @@ Type: Major
 Sexuality: Homosexual
 Relationships: "[[Marryn]] (wife)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

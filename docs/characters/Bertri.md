@@ -7,7 +7,7 @@ Occupation: Soldier
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc [[Soldiers' Guild]]
+ #npc [[Soldiers' Guild]]
 
 > [!infobox]
 > # `=this.file.name`

@@ -1,4 +1,4 @@
-#location #labyrinth [[Gerudo Region]]
+ #location #labyrinth [[Gerudo Region]]
 
 The labyrinth became much larger and more imposing after the Upheaval, when the castle section in the sky fell on top of the labyrinth on the land, creating an exceptionally tall structure. Ever since, the three Lomei structures have been called Castles instead by many, even though they remain very much like labyrinths.
 
@@ -9,6 +9,7 @@ The Yiga Clan have taken over this structure, after being driven from their prev
 ### Adventures
 
 ##### Lomei Castle South Maze (DC 15)
+
 * **Victory Condition**: 4 Right Path Cards (PCs find the Yiga Clan's elevator in the center of the maze)
 * [[Mazes Using Cards]]
 

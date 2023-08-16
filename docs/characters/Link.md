@@ -10,5 +10,5 @@ Relationships:
   - Queen Zelda (deceased wife)
   - Zelda (daughter)
 ---
-#npc 
+ #npc 
 

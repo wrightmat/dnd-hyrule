@@ -9,5 +9,5 @@ Occupation: Researcher
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

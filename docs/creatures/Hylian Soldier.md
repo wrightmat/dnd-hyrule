@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/dynastywarriors/images/b/bc/Hyrulean_Soldier_01_-_HW.png]]

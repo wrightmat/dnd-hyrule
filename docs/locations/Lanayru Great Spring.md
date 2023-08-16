@@ -1,4 +1,4 @@
-#location [[Lanayru Region]]
+ #location [[Lanayru Region]]
 
 Lanayru Great Spring is the large central area of the Lanayru region and the ancestral home of the Zora people.
 

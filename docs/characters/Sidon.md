@@ -10,5 +10,5 @@ Relationships:
   - "[[Yona]] (wife)"
   - "[[Mipha]] (daughter)"
 ---
-#npc 
+ #npc 
 

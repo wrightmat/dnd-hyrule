@@ -1,4 +1,4 @@
-#location [[Zora's Domain]]
+ #location [[Zora's Domain]]
 
 One of King Sidon's first official acts was to declare the newly rediscovered Ancient Waterworks, within the East Reservoir Lake, as a protected Zora site. No non-Zoras would be allowed access, and the Zora people were to prioritize rebuilding of the mechanism of the Waterworks (using limited remaining Zonai technology).
 

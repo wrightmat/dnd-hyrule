@@ -9,7 +9,7 @@ Relationships:
   - "[[Reede]] (husband)"
   - "[[Karin]] (daughter)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

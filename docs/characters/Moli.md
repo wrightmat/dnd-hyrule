@@ -9,6 +9,6 @@ Type: Major
 Sexuality: Heterosexual
 Relationships: "[[Syrup]] (mother)"
 ---
-#npc 
+ #npc 
 
 Moli, whose full name is Molasses, is a witch who runs and lives at The Witch's Hut.

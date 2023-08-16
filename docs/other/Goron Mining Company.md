@@ -1,4 +1,4 @@
-#lore #company [[Goron City]]
+ #lore #company [[Goron City]]
 
 YunoboCo is re-branded into the Goron Mining Company, with the Chief of the Gorons (currently Yunobo) as the President. The GMC works with the Hyrule Royal Family to perform work that most benefits the kingdom as a whole. This work is currently the reclamation and mining of the ancient Zonaite mines, which the Royal Family has decreed that only the Gorons may access (although they're only willing to do so in the mines around the Eldin region, where it's hottest). But more and more, the Gorons are running into problems with the Yiga down there…
 

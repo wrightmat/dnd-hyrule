@@ -8,7 +8,7 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Mubs]] (wife)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

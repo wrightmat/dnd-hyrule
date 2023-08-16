@@ -1,4 +1,4 @@
-#location #labyrinth [[Akkala Region]]
+ #location #labyrinth [[Akkala Region]]
 
 The labyrinth became much larger and more imposing after the Upheaval, when the castle section in the sky fell on top of the labyrinth on the land, creating an exceptionally tall structure. Ever since, the three Lomei structures have been called Castles instead by many, even though they remain very much like labyrinths.
 
@@ -9,6 +9,7 @@ This is the only Lomei structure that hasn't been claimed by anyone, due to its 
 ### Adventures
 
 #### Lomei Castle Island Maze (DC 15)
+
 * **Victory Condition**: 4 Right Path Cards (PCs find the center of the maze, see below)
 * [[Mazes Using Cards]]
 

@@ -11,7 +11,7 @@ Comments: Exploring Zonai Ruins
 Type: Minor
 Sexuality: Homosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

@@ -8,5 +8,5 @@ Comments: Hateno School House
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

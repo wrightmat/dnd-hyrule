@@ -8,7 +8,7 @@ Comments: Fortune Teller
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

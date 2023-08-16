@@ -9,7 +9,7 @@ Type: Major
 Sexuality: Heterosexual
 Alias: General Burlon
 ---
-#npc [[Champions of Hyrule]]
+ #npc [[Champions of Hyrule]]
 
 > [!infobox]
 > # `=this.file.name`

@@ -8,7 +8,7 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Mattison]] (wife)"
 ---
-#npc #hylian [[Hudson Construction]]
+ #npc #hylian [[Hudson Construction]]
 
 > [!infobox]
 > # `=this.file.name`

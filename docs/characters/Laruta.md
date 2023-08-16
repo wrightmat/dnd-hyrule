@@ -7,5 +7,5 @@ Occupation: Traveling Fisherman
 Type: Minor
 Sexuality: Homosexual
 ---
-#npc 
+ #npc 
 

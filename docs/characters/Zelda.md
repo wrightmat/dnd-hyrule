@@ -10,5 +10,5 @@ Relationships:
   - Queen Zelda (deceased mother)
   - Link (father)
 ---
-#npc 
+ #npc 
 

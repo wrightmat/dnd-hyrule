@@ -8,5 +8,5 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Cleff]] (elder brother)"
 ---
-#npc 
+ #npc 
 

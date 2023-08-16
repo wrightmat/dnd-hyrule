@@ -7,5 +7,5 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Sorelia]] (wife)"
 ---
-#npc 
+ #npc 
 

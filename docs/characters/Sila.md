@@ -7,5 +7,5 @@ Occupation: Teacher
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

@@ -8,7 +8,7 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Lukan]] (wife)"
 ---
-#npc 
+ #npc 
 
 Mimos was looking for love in all the wrong places (Ebon Mountain) during the time of Calamity, but was persistent in his travels and eventually met Lukan as she was travelling as well. They later settled down in Kara Kara Bazaar, since Mimos wouldn't be allowed in Gerudo Town, and the area was quickly expanding.
 

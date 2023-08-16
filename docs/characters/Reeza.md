@@ -8,5 +8,5 @@ Comments: Throne Room
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

@@ -6,7 +6,7 @@ Location: Goron City
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

@@ -1,4 +1,4 @@
-#location #village [[Hebra Region]]
+ #location #village [[Hebra Region]]
 
 Rito Village is a collection of platforms, stairs, and huts that sit atop the largest island plateau in Lake Totori, and serves as the home of the birdlike Rito race. The village itself has a fair climate, though it gets colder should one climb up the mountain spire beyond the village platforms.
 

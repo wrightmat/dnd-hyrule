@@ -11,5 +11,5 @@ Relationships:
   - "[[Mipha]] (daughter)"
   - "[[Dorephan]] (father-in-law)"
 ---
-#npc 
+ #npc 
 

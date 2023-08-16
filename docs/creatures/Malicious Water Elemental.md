@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #boss [[4. Reflecting Pool Dungeon]]
+ #monster #boss [[4. Reflecting Pool Dungeon]]
 
 ```statblock
 image: [[Wikilink To Image]]

@@ -1,4 +1,4 @@
-#location [[Central Region]]
+ #location [[Central Region]]
 
 Hyrule Field takes up the majority of the Central region. It was littered heavily with ruins during the Calamity and prior to the Upheaval, but has been successfully cleaned up and settled in the time since. Many have moved to new locations such as Windvane Village or Lon Lon Ranch. Roads through Hyrule Field also lead to the Great Plateau, as well as many other regions of Hyrule.
 

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #miniboss [[9. Metal Dungeon]] [[Phantom Heroes]]
+ #monster #miniboss [[9. Metal Dungeon]] [[Phantom Heroes]]
 
 ```statblock
 layout: Party Scaled 5e Layout

@@ -1,4 +1,4 @@
-#location [[Faron Region]]
+ #location [[Faron Region]]
 
 Lake Hylia is a large body of water found just southeast of the Great Plateau. The Hylia River and many of its tributaries spill out into Lake Hylia. At the west side of the lake is a large island known as Hylia Island. The Bridge of Hylia extends across the lake, which connects out to the Highland Stable, Lakeside Stable, and all the way out east to Lurelin Village.
 

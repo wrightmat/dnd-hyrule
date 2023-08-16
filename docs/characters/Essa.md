@@ -8,7 +8,7 @@ Comments: Sand Seal Rental Shop (Northwest)
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

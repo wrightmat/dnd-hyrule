@@ -4,7 +4,7 @@ Location: Faron Region
 Type: Medium
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/fb/BotW_Farosh_Model.png|300](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/fb/BotW_Farosh_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

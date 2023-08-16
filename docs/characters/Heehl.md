@@ -11,7 +11,7 @@ Relationships:
   - "[[Kabetta]] (younger brother)"
   - Unnamed grandfather
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

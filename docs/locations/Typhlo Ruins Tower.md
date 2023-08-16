@@ -1,4 +1,4 @@
-#location #tower [[Eldin Mountains]]
+ #location #tower [[Eldin Mountains]]
 
 A larger military base, with regular rotation of soldiers from Akkala Citadel, that protects the Eldin Region.
 

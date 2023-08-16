@@ -8,7 +8,7 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Freona]] (mother)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

@@ -11,7 +11,7 @@ Relationships:
   - "[[Gleema]] (sister)"
   - Dmitri (deceased father)
 ---
-#npc [[Soldiers' Guild]]
+ #npc [[Soldiers' Guild]]
 
 > [!infobox]
 > # `=this.file.name`

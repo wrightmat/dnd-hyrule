@@ -7,7 +7,7 @@ Location:
 Occupation: Traveler
 Type: Minor
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

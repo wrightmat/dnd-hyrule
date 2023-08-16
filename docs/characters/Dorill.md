@@ -10,7 +10,7 @@ Type: Minor
 Sexuality: Asexual
 Relationships: "[[Axyl]] (son)"
 ---
-#npc [[Goron Mining Company]]
+ #npc [[Goron Mining Company]]
 
 > [!infobox]
 > # `=this.file.name`

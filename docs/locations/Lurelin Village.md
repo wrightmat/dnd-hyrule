@@ -1,4 +1,4 @@
-#location #village [[Faron Grasslands]]
+ #location #village [[Faron Grasslands]]
 
 Lurelin is a seaside village located on the coast bordering the Faron and Necluda provinces, dotted with tropical palm trees and surrounded by steep cliffs that overshadow it.
 

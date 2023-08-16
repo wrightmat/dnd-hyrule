@@ -7,5 +7,5 @@ Occupation: Archaeologist
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

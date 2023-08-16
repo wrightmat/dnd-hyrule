@@ -1,4 +1,4 @@
-#monster 
+ #monster 
 
 Poes are spirits of the dead that became monsters because of an unresolved attachment to the mortal world. They carry a Lantern with them that serves as the container for that specific Poe Soul. As ghosts, Poes can disappear and reappear as part of their strategy and can easily move through walls. Most Poes are known for being wicked, vengeful spirits, however some Poes are helpful and serve as guides, although not without their deceitful trickery.
 

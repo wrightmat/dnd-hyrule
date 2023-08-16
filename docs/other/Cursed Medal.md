@@ -1,4 +1,4 @@
-#item #medal 
+ #item #medal 
 
 _Wondrous item, legendary (requires attunement)_
 

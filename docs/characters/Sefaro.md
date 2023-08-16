@@ -10,7 +10,7 @@ Relationships:
   - "[[Senna]] (mother)"
   - Sayge (deceased father)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

@@ -1,4 +1,4 @@
-#lore #faction
+ #lore #faction
 
 ![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/61/TLoZ_Series_Crest_of_the_Sheikah_Symbol.png|280](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/61/TLoZ_Series_Crest_of_the_Sheikah_Symbol.png)
 Symbol:: Eye with three triangular lashes on top and a tear drop coming down

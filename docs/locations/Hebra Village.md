@@ -1,4 +1,4 @@
-#location #village [[Hebra Mountains]]
+ #location #village [[Hebra Mountains]]
 
 Located in the center of the Hebra Mountains, between the East Summit and Hebra Tundra, a small village has developed around a log cabin that used to be alone in the mountains. Stories swirl about a group of intensely capable Rito knights who claimed the area for their order, but most Rito (and especially any Hylians) aren't willing to explore the area enough to uncover the truth.
 

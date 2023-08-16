@@ -1,4 +1,4 @@
-#location  [[Hebra Region]]
+ #location  [[Hebra Region]]
 
 The Tabantha Frontier is the western edge of the Hebra region, and thereby the western edge of Hyrule.
 

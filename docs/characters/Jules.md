@@ -8,7 +8,7 @@ Comments: Gerudo School House (Basic Reading, Writing, and Arithmetic)
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

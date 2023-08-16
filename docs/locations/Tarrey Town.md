@@ -1,4 +1,4 @@
-#location #town [[Akkala Region]]
+ #location #town [[Akkala Region]]
 
 Tarrey Town is the largest town in the Akkala Region and serves as corporate headquarters of the Hudson Construction company. The town is basically run by the company, and the large residential district houses all of the employees in a very suburban way.
 

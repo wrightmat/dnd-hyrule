@@ -7,5 +7,5 @@ Occupation: Chief Archeologist
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 

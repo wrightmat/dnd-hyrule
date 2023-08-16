@@ -1,4 +1,4 @@
-#location #stable [[Hebra Region]]
+ #location #stable [[Hebra Region]]
 
 The primary animal tended here is the goat, who love the abundant grasses and Tabantha Wheat of the area.
 

@@ -11,7 +11,7 @@ Relationships:
   - "[[Medda]] (father)"
   - "Unnamed mother"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

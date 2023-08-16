@@ -7,5 +7,5 @@ Occupation: Entomologist
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

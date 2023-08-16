@@ -7,5 +7,5 @@ Occupation: Mask Maker
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

@@ -11,7 +11,7 @@ Relationships:
   - "[[Tumbo]] (brother)"
   - Mei (deceased mother)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

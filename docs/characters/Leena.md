@@ -8,5 +8,5 @@ Comments: Barracks
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

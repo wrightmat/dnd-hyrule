@@ -4,7 +4,7 @@ Location: Eldin Region
 Type: Medium
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e7/BotW_Dinraal_Model.png|300](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e7/BotW_Dinraal_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

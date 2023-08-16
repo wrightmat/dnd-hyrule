@@ -1,4 +1,4 @@
-#lore #faction
+ #lore #faction
 
 ![https://gamepedia.cursecdn.com/zelda_gamepedia_en/1/1f/TLoZ_Series_Crest_of_the_Kokiri_Symbol.png|250](https://gamepedia.cursecdn.com/zelda_gamepedia_en/1/1f/TLoZ_Series_Crest_of_the_Kokiri_Symbol.png)
 Symbol:: A stylized swirl reminiscent of the wind

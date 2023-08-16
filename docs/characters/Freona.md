@@ -13,7 +13,7 @@ Relationships:
   - "[[Blaizette]] (daughter)"
   - "[[Whittlee]] (daughter)"
 ---
-#npc 
+ #npc
 
 > [!infobox]
 > # `=this.file.name`

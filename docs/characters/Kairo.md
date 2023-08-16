@@ -7,7 +7,7 @@ Occupation: null
 Type: Minor
 Sexuality: Asexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

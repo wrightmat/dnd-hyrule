@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #boss [[Yiga Clan]]
+ #monster #boss [[Yiga Clan]]
 
 ```statblock
 image: [[Wikilink To Image]]

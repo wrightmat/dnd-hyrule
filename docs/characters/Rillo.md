@@ -7,5 +7,5 @@ Occupation: Traveling Tinkerer
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

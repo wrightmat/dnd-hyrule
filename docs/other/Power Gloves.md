@@ -1,4 +1,4 @@
-#item #gloves 
+ #item #gloves 
 
 *Wondrous item, common, uncommon, or rare*
 

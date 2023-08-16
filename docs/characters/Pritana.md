@@ -8,5 +8,5 @@ Comments: The Noble Canteen
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

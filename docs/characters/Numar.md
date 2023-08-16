@@ -7,5 +7,5 @@ Occupation: Village Elder
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

@@ -9,5 +9,5 @@ Relationships:
   - "[[Rhodes]] (husband)"
   - Rozel (deceased father)
 ---
-#npc 
+ #npc 
 

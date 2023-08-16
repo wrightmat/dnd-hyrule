@@ -1,4 +1,4 @@
-#lore #faction
+ #lore #faction
 
 ![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c0/BotW_Yiga_Crest.png|280](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c0/BotW_Yiga_Crest.png)
 Symbol:: An upside down version of the Sheikah Eye

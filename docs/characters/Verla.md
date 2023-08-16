@@ -7,5 +7,5 @@ Occupation: Greeter
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

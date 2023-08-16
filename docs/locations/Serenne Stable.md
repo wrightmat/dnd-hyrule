@@ -1,4 +1,4 @@
-#location #stable [[Hyrule Ridge]]
+ #location #stable [[Hyrule Ridge]]
 
 >You were told that the Serene Stable was the place where adventurers could find work and avoid the hassle associated with other places in Hyrule. So far, that has been true. Madame Freona, a stout and officious Hylian who runs the stable with her five daughters, has proven an excellent hostess.
 

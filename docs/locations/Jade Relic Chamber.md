@@ -1,4 +1,4 @@
-#location [[Underground]]
+ #location [[Underground]]
 
 This area is locked behind the Jade Relic Door and is located primarily underneath the Lanayru, Necluda, and Faron regions.
 

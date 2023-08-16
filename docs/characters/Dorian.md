@@ -12,7 +12,7 @@ Relationships:
   - "[[Cottla]] (daughter)"
   - Unnamed wife (deceased)
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 
 > [!infobox]
 > # `=this.file.name`

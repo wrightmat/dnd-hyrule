@@ -2,7 +2,7 @@
 Recommended-Order: 5
 ---
 
-#location #region [[Hyrule]]
+ #location #region [[Hyrule]]
 
 The Akkala Region of Hyrule has been rebuilt with a new Citadel and a city to rival old Hyrule Castle Town in size. There is also a Soldiers' Academy, Quartermaster, Infirmary, Barracks, and Tavern here. A complex network of tunnels under the city, likely remaining from the old Citadel, serve as a prison for a very dangerous monster (unbeknownst to the people above). The region is protected by the Great Fairy Mija, who resides near Tarrey Town.
 

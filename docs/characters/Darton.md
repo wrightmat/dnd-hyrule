@@ -12,7 +12,7 @@ Relationships:
   - "[[Shibo]] (younger twin brother)"
   - Rensa (deceased father)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

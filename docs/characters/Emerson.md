@@ -10,7 +10,7 @@ Relationships:
   - "[[Babson]] (mother)"
   - "[[Dinkson]] (step-father)"
 ---
-#npc [[Hudson Construction]]
+ #npc [[Hudson Construction]]
 
 > [!infobox]
 > # `=this.file.name`

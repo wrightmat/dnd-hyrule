@@ -1,4 +1,4 @@
-#location #village [[Gerudo Region]]
+ #location #village [[Gerudo Region]]
 
 The Kara Kara Bazaar is a small oasis in the Gerudo Desert, found on the path to Gerudo Town near the entry to the desert. It is a resting stop while exploring the hot Gerudo Desert, which has expanded considerably since the Calamity and Upheaval. In addition to the original building housing the Inn, adobe residences now dot the southeastern edge of the path to the bazaar's lake (east of the main building), and additional wooden stalls have been built along the northwestern edge of the path (east of the main building as well). A Great Fairy Fountain is also now located very near the Bazaar, at the entrance to the desert in the northeast.
 

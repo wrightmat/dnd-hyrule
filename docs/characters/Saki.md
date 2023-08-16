@@ -11,5 +11,5 @@ Relationships:
   - "[[Teba]] (husband)"
   - "[[Tulin]] (son)"
 ---
-#npc 
+ #npc 
 

@@ -4,7 +4,7 @@ Location: Korok Forest
 Type: Minor
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a0/BotW_Chio_Model.png|200](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a0/BotW_Chio_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

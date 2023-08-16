@@ -8,7 +8,7 @@ Comments: South side (Goponga Island and Shrine Island)
 Type: MInor
 Sexuality: Bisexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

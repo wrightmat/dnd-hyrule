@@ -8,5 +8,5 @@ Comments: Front Entrance
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

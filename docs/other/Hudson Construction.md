@@ -1,4 +1,4 @@
-#lore #company [[Tarrey Town]]
+ #lore #company [[Tarrey Town]]
 
 Following the Calamity, Hudson starts his own construction company, Hudson Construction. which is based out of Tarrey Town where he lives. The company was immediately recruited by Princess Zelda in her efforts to restore Hyrule.
 

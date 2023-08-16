@@ -9,4 +9,4 @@ Type: Medium
 Sexuality: Heterosexual
 Relationships: "[[Cado]] (ex-husband)"
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]

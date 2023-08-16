@@ -11,7 +11,7 @@ Relationships:
   - "[[Heehl]] (older brother)"
   - Unnamed grandfather
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

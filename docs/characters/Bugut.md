@@ -8,7 +8,7 @@ Comments: High Spirits Produce
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

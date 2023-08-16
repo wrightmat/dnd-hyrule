@@ -11,5 +11,5 @@ Relationships:
   - "[[Amali]] (mother)"
   - "[[Kass]] (father)"
 ---
-#npc 
+ #npc 
 

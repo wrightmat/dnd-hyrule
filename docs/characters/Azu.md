@@ -12,7 +12,7 @@ Relationships:
   - "[[Ivee]] (sister)"
   - Pruce (deceased father)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

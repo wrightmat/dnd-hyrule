@@ -1,4 +1,4 @@
-#location [[Faron Region]]
+ #location [[Faron Region]]
 
 The Faron Grasslands is the long stretch of land from the Gerudo region in the west to the Necluda Sea in the east, bordered by Lake Hylia to the north and Faron Sea to the south. The area is mostly jungle, and includes the bulk of the Zonai Ruins.
 

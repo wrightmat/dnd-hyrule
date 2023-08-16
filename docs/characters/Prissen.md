@@ -8,5 +8,5 @@ Type: Minor
 Sexuality: Heterosexual
 Relationships: "[[Domidak]] (older twin brother)"
 ---
-#npc 
+ #npc 
 

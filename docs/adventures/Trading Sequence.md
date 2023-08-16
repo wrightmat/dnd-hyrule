@@ -1,4 +1,4 @@
-#adventure [[Hyrule]]
+ #adventure [[Hyrule]]
 
 ### Background
 

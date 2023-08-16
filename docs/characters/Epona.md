@@ -4,7 +4,7 @@ Gender: Female
 Location: Lon Lon Ranch
 Type: Minor
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

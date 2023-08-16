@@ -5,5 +5,5 @@ Location: Akkala Region
 Comments: Tarrey Town
 Type: Major
 ---
-#npc 
+ #npc 
 

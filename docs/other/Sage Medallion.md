@@ -1,4 +1,4 @@
-#item #medallion
+ #item #medallion
 
 *Wondrous item, very rare*
 

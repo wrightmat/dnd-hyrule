@@ -10,7 +10,7 @@ Relationships:
   - "[[Robbie]] (Father)"
   - "[[Jerrin]] (Mother)"
 ---
-#npc [[Hudson Construction]]
+ #npc [[Hudson Construction]]
 
 > [!infobox]
 > # `=this.file.name`

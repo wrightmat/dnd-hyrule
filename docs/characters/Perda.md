@@ -9,5 +9,5 @@ Relationships:
   - "[[Wabbin]] (husband)"
   - "[[Aaqlet]] (daughter)"
 ---
-#npc 
+ #npc 
 

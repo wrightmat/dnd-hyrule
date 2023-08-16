@@ -1,4 +1,4 @@
-#item #gloves
+ #item #gloves
 
 *Wondrous item, very rare (requires attunement)*
 

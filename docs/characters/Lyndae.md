@@ -6,5 +6,5 @@ Location: Gorondia
 Type: MInor
 Sexuality: Asexual
 ---
-#npc 
+ #npc 
 

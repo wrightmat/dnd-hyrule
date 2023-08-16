@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-skyward-sword/e/ea/Beamos.png]]

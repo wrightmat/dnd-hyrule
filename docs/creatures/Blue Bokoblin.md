@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster [[Bokoblins]]
+ #monster [[Bokoblins]]
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d7/BotW_Blue_Bokoblin_Model.png]]

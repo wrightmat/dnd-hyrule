@@ -7,7 +7,7 @@ Occupation: Captain of the Guard
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

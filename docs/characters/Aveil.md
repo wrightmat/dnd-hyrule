@@ -9,7 +9,7 @@ Relationships:
   - "[[Lukan]] (mother)"
   - "[[Mimos]] (father)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

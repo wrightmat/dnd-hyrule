@@ -10,7 +10,7 @@ Relationships:
   - "[[Rivan]] (father)"
   - Trello (deceased grandfather)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster [[ChuChu]]
+ #monster [[ChuChu]]
 
 ```statblock
 image: [[Wikilink To Image]]

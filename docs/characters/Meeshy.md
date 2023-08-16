@@ -6,5 +6,5 @@ Location: Hyrule Castle Town
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

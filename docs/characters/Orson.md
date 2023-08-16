@@ -11,6 +11,6 @@ Relationships:
   - "[[Babson]] (mother)"
   - "[[Dinkson]] (step-father)"
 ---
-#npc [[Hudson Construction]]
+ #npc [[Hudson Construction]]
 
 Orson is one of Babson's younger twins and construction worker for Hudson Construction.

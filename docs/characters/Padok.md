@@ -7,5 +7,5 @@ Occupation: Stable Owner
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

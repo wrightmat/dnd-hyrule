@@ -1,4 +1,4 @@
-#location #town [[Lanayru Great Spring]]
+ #location #town [[Lanayru Great Spring]]
 
 The home of the Zoras is a peaceful architectural marvel beset between the mountains and rivers of Lanayru. A sacred location known as The Reflecting Pool, where Divine Beast Vah Ruta once stood, has become a source of concern for the Zora people, who have observed an evil eminence.
 

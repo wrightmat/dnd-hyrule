@@ -10,5 +10,5 @@ Relationships:
   - "[[Saki]] (wife)"
   - "[[Tulin]] (son)"
 ---
-#npc 
+ #npc 
 

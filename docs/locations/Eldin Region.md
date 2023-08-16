@@ -2,7 +2,7 @@
 Recommended-Order: 6
 ---
 
-#location #region [[Hyrule]]
+ #location #region [[Hyrule]]
 
 Eldin is a vast Region in northern Hyrule, split into two distinct halves. The eastern side is a largely mountainous stretch of land that consists densely of foothills, deep gorges, and volcanic activity. The western half, which belonged to the Central region until just after the second Calamity, is composed primarily of the Great Hyrule Forest. The region is protected by the Dragon Dinraal who flies over periodically.
 

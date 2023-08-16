@@ -10,7 +10,7 @@ Relationships:
   - Hagie (deceased father)
   - Ruli (deceased mother)
 ---
-#npc [[Soldiers' Guild]]
+ #npc [[Soldiers' Guild]]
 
 > [!infobox]
 > # `=this.file.name`

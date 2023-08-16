@@ -1,4 +1,4 @@
-#location #stable [[Faron Grasslands]]
+ #location #stable [[Faron Grasslands]]
 
 The primary animal tended here is dondons, the large oxen-like animal that Princess Zelda discovered almost fifty years ago. A bridge has been built from the stable to the large pen across the Floria River.
 

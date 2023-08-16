@@ -11,7 +11,7 @@ Relationships:
   - "[[Kyra]] (wife)"
   - "[[Tisam]] (daughter)"
 ---
-#npc [[Soldiers' Guild]]
+ #npc [[Soldiers' Guild]]
 
 > [!infobox]
 > # `=this.file.name`

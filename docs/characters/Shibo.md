@@ -12,5 +12,5 @@ Relationships:
   - "[[Darton]] (older twin brother)"
   - Rensa (deceased father)
 ---
-#npc 
+ #npc 
 

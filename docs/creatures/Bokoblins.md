@@ -1,4 +1,4 @@
-#monster 
+ #monster 
 
 Bokoblins are small, devious humanoid creatures that can be found throughout the Hylian wilds and are known to regularly attack travelers. Their entire society seems to be centered around scrounging and stealing in order to survive. Despite their constant and desperate need for food and shelter, Bokoblins also display a despicable lust for treasure. They will endeavour to possess anything that sparkles or shines and they will conspire, cheat, and steal to meet that goal.
 

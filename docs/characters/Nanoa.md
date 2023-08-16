@@ -7,5 +7,5 @@ Occupation: Soldier
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

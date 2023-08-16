@@ -1,4 +1,4 @@
-#location [[Akkala Region]]
+ #location [[Akkala Region]]
 
 Deep Akkala is a sub-region of the Akkala Region. It is in the north-west of the region, bordering Eldin.
 

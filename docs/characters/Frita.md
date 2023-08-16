@@ -13,7 +13,7 @@ Type: Minor
 Sexuality: Heterosexual
 Adventure: "[[Trading Sequence]]"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

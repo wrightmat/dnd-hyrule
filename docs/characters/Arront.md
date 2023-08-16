@@ -10,7 +10,7 @@ Occupation: Noble
 Type: Major
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

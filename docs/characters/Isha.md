@@ -8,7 +8,7 @@ Comments: Starlight Memories Jewelry Shop
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

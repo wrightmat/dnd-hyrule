@@ -11,5 +11,5 @@ Relationships:
   - "[[Ami]] (brother)"
   - "[[Izra]] (brother)"
 ---
-#npc 
+ #npc 
 

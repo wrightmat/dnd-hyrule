@@ -1,4 +1,4 @@
-#location [[Lanayru Region]]
+ #location [[Lanayru Region]]
 
 The Lanayru Sea is part of the ocean, covering much of Hyrule's east coast. In terms of Hyrule's provinces, it is - as the name suggests - primarily within Lanayru, but extends northward into the south-eastern part of Akkala, with islands within the northern Lanayru Sea formally part of the latter province.
 

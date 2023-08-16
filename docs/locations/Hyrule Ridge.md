@@ -1,4 +1,4 @@
-#location [[Hebra Region]]
+ #location [[Hebra Region]]
 
 Hyrule Ridge is the eastern area of Hebra between the Central Region and Tabantha Frontier. The area is composed largely of swamp and bog, where rain is incredibly common.
 

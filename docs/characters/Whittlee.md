@@ -8,5 +8,5 @@ Type: Medium
 Sexuality: Homosexual
 Relationships: "[[Freona]] (mother)"
 ---
-#npc 
+ #npc 
 

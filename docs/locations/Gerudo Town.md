@@ -1,4 +1,4 @@
-#location #town [[Gerudo Town]]
+ #location #town [[Gerudo Town]]
 
 Gerudo Town is the main settlement of the Gerudo Desert and consequently the Gerudo people. Only women are allowed to enter the Town. The northern portion of the city houses the throne room, with the chief's barracks to the northeast and the chief's Sand Seal stables to the northwest, and the remainder of the town is mostly shops and residences.
 

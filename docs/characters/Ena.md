@@ -8,7 +8,7 @@ Comments: Tends to the goats
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

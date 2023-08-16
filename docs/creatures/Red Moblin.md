@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster [[Moblins]]
+ #monster [[Moblins]]
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/86/BotW_Moblin_Model.png]]

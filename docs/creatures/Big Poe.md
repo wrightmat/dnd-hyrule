@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster [[Poes]]
+ #monster [[Poes]]
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ad/OoT_Poe_Artwork.png]]

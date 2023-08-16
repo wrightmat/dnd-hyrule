@@ -1,4 +1,4 @@
-#location #village [[Hyrule Field]]
+ #location #village [[Hyrule Field]]
 
 Located in the southwestern area of Hyrule Field, this medium-sized village has popped up since the Calamity/Upheaval and is occupied mostly by humans who don't want to live in Hyrule Castle Town.
 

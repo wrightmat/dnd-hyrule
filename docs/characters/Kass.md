@@ -13,7 +13,7 @@ Relationships:
   - "[[Cree]] (daughter)"
   - "[[Genli]] (daughter)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

@@ -10,5 +10,5 @@ Relationships:
   - "[[Impa]] (younger sister)"
   - "[[Paya]] (great-niece)"
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 

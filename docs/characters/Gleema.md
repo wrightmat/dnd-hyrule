@@ -12,7 +12,7 @@ Relationships:
   - "[[Jana]] (sister)"
   - Dmitri (deceased father)
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

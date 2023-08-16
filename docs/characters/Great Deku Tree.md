@@ -6,7 +6,7 @@ Occupation: Guardian Spirit
 Type: Major
 Relationships: "[[Hestu]] (grandson)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

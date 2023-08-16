@@ -1,4 +1,4 @@
-#location #city [[Eldin Canyon]]
+ #location #city [[Eldin Canyon]]
 
 The Home of the Gorons is a north east location in the Eldin region, next to a huge towering volcano that dominates the skyline, causing extreme temperatures. A winding road leading from the entrance to Eldin from Trilby Valley paves the way to the settlement. The little town is built surrounding a pool of lava, which is crossed by bridges. The architecture is composed of stone shanties, inside which the Gorons live and conduct business.
 

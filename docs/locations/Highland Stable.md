@@ -1,4 +1,4 @@
-#location #stable [[Lake Hylia]]
+ #location #stable [[Lake Hylia]]
 
 The stables are a place where people can go to have a drink or meal and escape the tensions of the wilds of Hyrule. With the stables’ reputation as haven, adventurers who can be discreet and behave themselves can often find employment there. The primary animal tended at this stable is cows/bulls (tended by an older Haite).
 

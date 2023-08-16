@@ -1,4 +1,4 @@
-#location #town [[Central Region]]
+ #location #town [[Central Region]]
 
 ![https://i.redd.it/yof0s9j6dkd41.png|800](https://i.redd.it/yof0s9j6dkd41.png)
 

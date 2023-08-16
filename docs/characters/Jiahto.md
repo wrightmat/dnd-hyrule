@@ -8,7 +8,7 @@ Comments: "Works: Shrine Island, Lives: Kincean Creek"
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

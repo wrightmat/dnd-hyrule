@@ -9,7 +9,7 @@ Sexuality: Heterosexual
 Relationships: "[[Seggin]] (father)"
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4b/BotW_Bazz_Model.png|200](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4b/BotW_Bazz_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

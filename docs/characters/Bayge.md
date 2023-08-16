@@ -12,7 +12,7 @@ Relationships:
   - Unnamed grandfather
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7a/BotW_Bayge_Model.png|200](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7a/BotW_Bayge_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

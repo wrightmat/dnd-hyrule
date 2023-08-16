@@ -11,5 +11,5 @@ Relationships:
   - "[[Aster]] (daughter)"
   - Unnamed wife
 ---
-#npc 
+ #npc 
 

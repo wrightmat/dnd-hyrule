@@ -8,5 +8,5 @@ Comments: Gerudo School House (Introductory Military Training)
 Type: Minor
 Sexuality: Heterosexual
 ---
-#npc 
+ #npc 
 

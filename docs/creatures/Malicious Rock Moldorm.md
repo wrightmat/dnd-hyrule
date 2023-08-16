@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #boss [[5. Citadel Tunnels Dungeon]]
+ #monster #boss [[5. Citadel Tunnels Dungeon]]
 
 ```statblock
 image: [[Wikilink To Image]]

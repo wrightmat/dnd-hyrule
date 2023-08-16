@@ -15,6 +15,6 @@ Adventure:
   - "[[Trading Sequence]]"
   - "[[2. Seeking the Seekers]]"
 ---
-#npc [[Sheikah Seekers]]
+ #npc [[Sheikah Seekers]]
 
 A younger Sheikah female who lives and works in Seeker Hall, where she heads up the Sheikah Seekers clan.

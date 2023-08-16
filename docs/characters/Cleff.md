@@ -10,7 +10,7 @@ Sexuality: Heterosexual
 Relationships: "[[Tona]] (sister)"
 Image: "![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d4/BotW_Cleff_Model.png|150](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d4/BotW_Cleff_Model.png)"
 ---
-#npc 
+ #npc 
 
 > [!infobox]
 > # `=this.file.name`

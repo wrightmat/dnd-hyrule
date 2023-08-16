@@ -8,7 +8,7 @@ Comments: Brass Bird Armor Shop
 Type: Medium
 Sexuality: Heterosexual
 ---
-#npc [[Fokka Knights]]
+ #npc [[Fokka Knights]]
 
 > [!infobox]
 > # `=this.file.name`

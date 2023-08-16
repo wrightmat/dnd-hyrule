@@ -12,5 +12,5 @@ Relationships:
   - "[[Karson]] (husband)"
   - "[[Rall]] (son)"
 ---
-#npc 
+ #npc 
 

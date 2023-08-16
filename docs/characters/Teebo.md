@@ -12,6 +12,6 @@ Relationships:
   - "[[Tamana]] (mother)"
   - "[[Thadd]] (father)"
 ---
-#npc 
+ #npc 
 
 Teebo and Nebb have been friends since childhood, and eventually found themselves in a romantic relationship. Now Teebo, ever the little nerd, is the librarian at the Hateno School House.

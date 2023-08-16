@@ -12,5 +12,5 @@ Relationships:
   - "[[Nikki]] (mother)"
   - "[[Nebb]] (brother)"
 ---
-#npc 
+ #npc 
 

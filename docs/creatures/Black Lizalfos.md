@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster [[Lizalfos]]
+ #monster [[Lizalfos]]
 
 ```statblock
 image: [[https://www.zeldadungeon.net/wiki/images/6/64/Black-Lizalfos.png]]
