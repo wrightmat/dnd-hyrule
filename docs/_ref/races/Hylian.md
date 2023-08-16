@@ -47,13 +47,12 @@ Hylians have a wide range of names due to their ties across regions. Many names 
 
 **Languages.** You speak, read, and write Common and two other languages of your choice.
 
-**Hylian Armor Training.** You are proficient with light and medium armor.
+**Skills**. You gain proficiency in one skill of your choice.
 
-**Versatile.** You are proficient in two skills of your choice. You gain one feat of your choice.
+**Feat**. You gain one feat of your choice.
 
+**Armor Training.** You are proficient with light and medium armor.
 
-Skills
-You gain proficiency in one skill of your choice.
+### References
 
-Feat
-You gain one feat of your choice.
+* Re-skinned Variant Human from PHB (with Armor Training and Optional Racial Flaw added).

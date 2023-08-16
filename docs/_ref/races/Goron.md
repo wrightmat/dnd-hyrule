@@ -61,4 +61,4 @@ Goron names are fairly simple, having a guttural tone to them when spoken. There
 
 ### References
 
-* Custom race, based very loosely on the Dwarf from PHB and Tortle.
+* Custom race, based very loosely on the Dwarf from PHB and Tortle from MotM.
