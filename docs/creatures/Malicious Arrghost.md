@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
- #monster #boss [[8. The Eighth Heroine Dungeon]]
+ #monster #boss [[08. The Eighth Heroine Dungeon]]
 
 ```statblock
 image: [[Wikilink To Image]]

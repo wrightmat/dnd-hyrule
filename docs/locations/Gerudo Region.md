@@ -35,9 +35,9 @@ sort Type, Location, file.name
 
 | d6  | Random Rumor                                                                                                                                                                                                          |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1  | "A strange shrine has risen out of the desert in Toruma Dunes, west of Gerudo Town. No one knows where it came from, or why it's here, but we have to assume the Yiga are involved" ([[8. Shrine of Shifting Sands]]) |
+|  1  | "A strange shrine has risen out of the desert in Toruma Dunes, west of Gerudo Town. No one knows where it came from, or why it's here, but we have to assume the Yiga are involved" ([[08. Shrine of Shifting Sands]]) |
 |  2  | "Have you heard about the seven giant statues that are east of Gerudo Town? They're said to be depictions of ancient heroines, believed to be the divine protectors of the Gerudo." (Shrine of the Seven)             |
-|  3  | "There's rumored to be a great magical fairy who lives in the far reaches of the desert. But no one in recent memory has been able to make the trek out there to meet her." ([[8. Great Fairy Tera]])                 |
+|  3  | "There's rumored to be a great magical fairy who lives in the far reaches of the desert. But no one in recent memory has been able to make the trek out there to meet her." ([[08. Great Fairy Tera]])                 |
 |  4  |                                                                                                                                                                                                                       |
 |  5  |                                                                                                                                                                                                                       |
 |  6  |                                                                                                                                                                                                                       |

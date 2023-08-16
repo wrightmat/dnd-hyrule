@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
- #monster #boss [[7. Thundra Plateau Dungeon]]
+ #monster #boss [[07. Thundra Plateau Dungeon]]
 
 ```statblock
 image: [[Wikilink To Image]]

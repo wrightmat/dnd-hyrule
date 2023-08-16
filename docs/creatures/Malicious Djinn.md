@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
- #monster #boss [[7. Maze of the Elements Dungeon]]
+ #monster #boss [[07. Maze of the Elements Dungeon]]
 
 ```statblock
 image: [[Wikilink To Image]]

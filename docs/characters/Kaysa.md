@@ -5,7 +5,7 @@ Location: Hebra Region (Tabantha Frontier)
 Comments: Rito Village
 Type: Major
 ---
- #npc [[7. Great Fairy Kaysa]]
+ #npc [[07. Great Fairy Kaysa]]
 
 > [!infobox]
 > # `=this.file.name`

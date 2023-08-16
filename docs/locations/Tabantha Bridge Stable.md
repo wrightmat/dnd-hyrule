@@ -2,7 +2,7 @@
 
 The primary animal tended here is the goat, who love the abundant grasses and Tabantha Wheat of the area.
 
-A poster on an inside wall depicts the notes to the "Song of Storms" (see [[1. Central Windvane and Warp Songs]]).
+A poster on an inside wall depicts the notes to the "Song of Storms" (see [[01. Central Windvane and Warp Songs]]).
 
 Primary-Purpose:: Goats
 Region:: Hebra

@@ -39,11 +39,11 @@ sort Type, Location, file.name
 
 | d6  | Random Rumor                                                                                                                                                                                                                                                             |
 |:---:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  1  | "Should anyone in your group have need for potion or poison, a witch is always your best bet. I've heard there's one who lives outside of town, but I could never travel that far." ([[6. Visit to the Witch's Hut]])                                                    |
-|  2  | "The great flame dragon, Dinraal, used to frequent the area at the foot of Gut Check Rock, but hasn't been seen in decades. I've heard the dragon's faithful are still around, and have even built a new temple to him in a volcano." ([[6. Temple of the Volcano God]]) |
+|  1  | "Should anyone in your group have need for potion or poison, a witch is always your best bet. I've heard there's one who lives outside of town, but I could never travel that far." ([[06. Visit to the Witch's Hut]])                                                    |
+|  2  | "The great flame dragon, Dinraal, used to frequent the area at the foot of Gut Check Rock, but hasn't been seen in decades. I've heard the dragon's faithful are still around, and have even built a new temple to him in a volcano." ([[06. Temple of the Volcano God]]) |
 |  3  | "The Great Deku Tree can be found in the middle of Korok Forest. He is the patron diety of a group known as the Deku Protectorate, who believe that the natural order must be respected and preserved." ([[Korok Forest]])                                               |
 |  4  |                                                                                                       |
-|  5  | "The Goron City is surrounded by a number of different mines. I heard a rumor recently about trouble in one of the mines that has prevented the Gorons from entering it." ([[6. Abandoned Mine Dungeon]])                                                              |
+|  5  | "The Goron City is surrounded by a number of different mines. I heard a rumor recently about trouble in one of the mines that has prevented the Gorons from entering it." ([[06. Abandoned Mine Dungeon]])                                                              |
 |  6  | "If you travel far enough west from here, you'll encounter the Hebra and Tabantha regions. They're kind of the opposite of here, cold and wet." ([[Hebra Region]])                                                                                                       |
 ^eldin-random-rumor
 

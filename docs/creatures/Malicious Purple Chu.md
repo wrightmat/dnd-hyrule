@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
- #monster #boss [[2. Well in the Woods Dungeon]]
+ #monster #boss [[02. Well in the Woods Dungeon]]
 
 ```statblock
 image: [[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd77efbd-c8fa-422a-be01-94af27e71bfc/de2euw5-9f0f85fe-5c6a-489c-890d-3d59a2ea45ce.png/v1/fill/w_648,h_602/blight_monsters__chuchu_by_chari_artist_de2euw5-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAyIiwicGF0aCI6IlwvZlwvZmQ3N2VmYmQtYzhmYS00MjJhLWJlMDEtOTRhZjI3ZTcxYmZjXC9kZTJldXc1LTlmMGY4NWZlLTVjNmEtNDg5Yy04OTBkLTNkNTlhMmVhNDVjZS5wbmciLCJ3aWR0aCI6Ijw9NjQ4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.E_F7OdF9Bv_DsU3G3UCh1jelch5wP0sPLTibNs7vMO4]]

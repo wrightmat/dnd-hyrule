@@ -39,12 +39,12 @@ sort Type, Location, file.name
 
 | d6 | Random Rumor |
 |:----:|:-------------|
-| 1  | "I heard recently that an area of the woods between Faron and Necluda has been dying and rotting. No one knows what's causing it, but it reeks of evil energy to me." ([[2. Well in the Woods Dungeon]]) |
-| 2  | "The ruins north east of Pagos Woods are said to have once belonged to the ancient barbarian tribe known as the Zonai. Who knows what interesting weapons or magic could be buried in those ruins." ([[3. The Sunken Vault]]) |
-| 3  | "An explorer friend of mine just returned from the Faron Grasslands near the Dracozu River, and told me that he found the remains of an ancient spring. There was a statue there glowing with magic, but he was too afraid to touch it." ([[3. Spring of Courage]]) |
+| 1  | "I heard recently that an area of the woods between Faron and Necluda has been dying and rotting. No one knows what's causing it, but it reeks of evil energy to me." ([[02. Well in the Woods Dungeon]]) |
+| 2  | "The ruins north east of Pagos Woods are said to have once belonged to the ancient barbarian tribe known as the Zonai. Who knows what interesting weapons or magic could be buried in those ruins." ([[03. The Sunken Vault]]) |
+| 3  | "An explorer friend of mine just returned from the Faron Grasslands near the Dracozu River, and told me that he found the remains of an ancient spring. There was a statue there glowing with magic, but he was too afraid to touch it." ([[03. Spring of Courage]]) |
 | 4  | "The seaside village of Lurelin is well known for its open-air fish market and it's dock with boat rentals available. Rumor is that some villagers there know how to trawl gold from the ocean floor." (Fishing For Riches [[Lurelin Village]]) |
 | 5  | "Supposedly there's a magical island way out in the eastern ocean. I've never found anyone who knows exactly how to get there, but Lurelin Village would be the closest place to get there." ([[Eventide Island]]) |
-| 6  | "Rumor is that the lake where Divine Beast Vah Ruta once stood is now almost entirely drained. One of my Zora friends says that his people are concerned." ([[4. Reflecting Pool Dungeon]]) |
+| 6  | "Rumor is that the lake where Divine Beast Vah Ruta once stood is now almost entirely drained. One of my Zora friends says that his people are concerned." ([[04. Reflecting Pool Dungeon]]) |
 ^faron-random-rumor
 
 ### Random Encounters (15+)

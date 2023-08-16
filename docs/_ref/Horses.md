@@ -32,7 +32,7 @@ When riding a horse, players will always move at the horse's Speed, but they can
 
 ### Upgrading
 
-Horses can have a stat upgraded by one star (or more than one stat or by more than one star, if the PC has the resources) by visiting the [[3. Horse Fairy Malanya]].
+Horses can have a stat upgraded by one star (or more than one stat or by more than one star, if the PC has the resources) by visiting the [[03. Horse Fairy Malanya]].
 
 ### Horse Examples
 
