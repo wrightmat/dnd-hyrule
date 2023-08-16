@@ -43,7 +43,7 @@ Gerudo names tend to contain two or three syllables with many _a_'s and _o_'s.
 
 **Age.** The Gerudo reach maturity around the age of 16 and live into their mid 70's.
 
-**Alignment.** Many Gerudo live ambitiously, but still hold themselves to the laws and traditions of their tribe. They have a tendency towards lawful or neutral alignments, but carry the mischeivousness of a chaotically alligned individual.
+**Alignment.** Many Gerudo live ambitiously, but still hold themselves to the laws and traditions of their tribe. They have a tendency toward lawful or neutral alignments, but carry the mischievousness of a chaotically alligned individual.
 
 **Size.** They stand tall, on average growing to be taller than 6 feet tall, with wideset hips and naturally well toned bodies. Should a male be born into their society, it is rumoured he would stand at least 7 feet tall with a powerful build. Your size is medium.
 

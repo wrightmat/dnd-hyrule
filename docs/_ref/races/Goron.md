@@ -37,7 +37,7 @@ Goron names are fairly simple, having a guttural tone to them when spoken. There
 
 **Age.** Gorons reach maturity after living for 150 years, and live on until after they are 450 years old.
 
-**Alignment.** Gorons generally have a laissez-faire approach to life, leading them towards neutral and chaotic alignments.
+**Alignment.** Gorons generally have a laissez-faire approach to life, leading toward neutral and chaotic alignments.
 
 **Size.** A fully grown Goron stands above 7 feet tall and weighs nearly a ton. Your size is medium.
 

@@ -39,7 +39,7 @@ bonus_actions:
     desc: "The redead moves up to its speed straight toward a creature frightened of it that it can see, and makes a bite attack against it if it is within reach."
 ```
 
-A vaguely humanoid-shaped monstrosity of dull color, a redead (or ReDead) is renowned for instilling such fear that its victim completely loses the capability to move. Once a victim is immobilized by terror, the redead lurches towards it with eerily slow movement. The monster's four leathery limbs all wrap around its victim at once — further immobilizing the poor creature — and the redead's blunt teeth begin to tear and devour the paralyzed victim while it still lives. The few who have survived this experience are known to retain mind-rattling nightmares of it for the rest of their days.
+A vaguely humanoid-shaped monstrosity of dull color, a redead (or ReDead) is renowned for instilling such fear that its victim completely loses the capability to move. Once a victim is immobilized by terror, the redead lurches toward it with eerily slow movement. The monster's four leathery limbs all wrap around its victim at once — further immobilizing the poor creature — and the redead's blunt teeth begin to tear and devour the paralyzed victim while it still lives. The few who have survived this experience are known to retain mind-rattling nightmares of it for the rest of their days.
 
 _**Unknown Origins.**_ The origins and motivations of redead are mysterious. They are frequently found where large numbers of corpses are buried, or any area where necrotic magic flows wildly.
 

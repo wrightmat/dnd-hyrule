@@ -41,7 +41,7 @@ The Rito have a wide range of names which tend to make avid use of the letters 
 
 **Age.** Rito reach maturity around age 35 and can live as long as 160 years.
 
-**Alignment.** The Rito are a people of honor and move to protect those in need with little prompting. They lean towards a good alignment.
+**Alignment.** The Rito are a people of honor and move to protect those in need with little prompting. They lean toward a good alignment.
 
 **Size.** Rito men stand just below 6 feet tall, while women reach just above 5 feet on average.
 

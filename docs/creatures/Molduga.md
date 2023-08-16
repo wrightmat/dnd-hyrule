@@ -33,7 +33,7 @@ actions:
     desc: "Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone."
 ```
 
-Molduga are giant sand monsters that can be found in the Gerudo Desert. They resemble a four-legged fish and lurk below the sand, patrolling their territory in search of prey. Once they become aware of potential prey's presence, they will barrel towards it and attempt to slam into it.
+Molduga are giant sand monsters that can be found in the Gerudo Desert. They resemble a four-legged fish and lurk below the sand, patrolling their territory in search of prey. Once they become aware of potential prey's presence, they will barrel toward it and attempt to slam into it.
 
 ![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7e/BotW_Molduga_Artwork.png|400](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7e/BotW_Molduga_Artwork.png)
 

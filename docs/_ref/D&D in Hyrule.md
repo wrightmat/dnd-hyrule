@@ -141,6 +141,6 @@ The primary currency in Hyrule is rupees (rp). These appear as small, uniformly 
 
 #### Heavier Armor
 
-See Equipment (DMG Chapter 5).
+See [[Equipment]].
 
 If you do not meet the Strength score requirement of the armor you are wearing, you are restricted as though you lack proficiency with that armor. This means you would have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and spells could not be cast.
