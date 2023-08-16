@@ -55,8 +55,8 @@ The Rito have a wide range of names which tend to make avid use of the letters 
 
 **Wind Caller**. Starting at 3rd level, you can cast the *gust of wind* spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can’t do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher. Intelligence, Wisdom, or Charisma is your spellcasting ability for it when you cast *gust of wind* with this trait (choose when you select this race).
 
-**Weapon Training.** You have proficiency with shortbows, javelins, and natural weapons.
+**Weapon Training.** You have proficiency with shortbows, longbows, and natural weapons.
 
 ### References
 
-* Re-skinned Aarakocra from MotM (with set Ability Scores, and Weapon Training and Optional Flaw added).
+* Re-skinned Aarakocra from MotM (with set Ability Scores, and Weapon Training and Optional Racial Flaw added).

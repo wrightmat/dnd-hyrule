@@ -61,4 +61,4 @@ Gerudo names tend to contain two or three syllables with many _a_'s and _o_'s.
 
 ### References
 
-* Re-skinned Half-Orc from PHB (with different Ability Scores, and Weapon Training and Optional Flaw added).
+* Re-skinned Half-Orc from PHB (with different Ability Scores, and Weapon Training and Optional Racial Flaw added).

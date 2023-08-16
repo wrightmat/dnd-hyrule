@@ -61,18 +61,10 @@ Zora names are normally quite simple. Often having no more than two syllables an
 
 Whenever you finish this trance, you can gain two proficiencies that you don’t have, each one with a weapon or a tool of your choice selected from the Player’s Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.
 
+**Weapon Training.** You are proficient with tridents, lances, and nets.
 
+**Soaked Skin** (Optional Racial Flaw). You have vulnerability to lightning damage.
 
-**Weapon Training.** You are proficient with Tridents, Lances, and Nets.
+### References
 
-**Double Cutters.** Your arm fins are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-
-**Of the Water.** You are resistant to cold damage and you ignore any of the drawbacks caused by a deep underwater environment.
-
-**Lake of Life.** You can breathe underwater. When submerged, for every minute you’re underwater you regain 1 hit point.
-
-**Spin Dash.** When in water and you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature. If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
-
-**Slippery.** You have advantage on escape attempts against grapples and restraints.
-
-**Soaked Skin.** You are vulnerable to lightning damage.
+* Re-skinned Sea Elf from MotM (with set Ability Scores, Weapon Training and Optional Racial Flaw added, and Fey Ancestry removed).
