@@ -17,6 +17,7 @@ sort Recommended-Order asc
 ```
 
 ### Side Adventures
+
 ```dataview
 table without id file.link as Adventure, Reward
 from #adventure and !#dungeon and !"_templates"
@@ -26,6 +27,7 @@ sort file.name asc
 ### Stables
 
 There are nine Stables remaining throughout the land, including one that the players can buy (the others have closed down for various reasons over the years as Hyrule has developed further, especially in the Central Region).
+
 ```dataview
 table without id file.link as Stable, Region, Primary-Purpose
 from #stable
@@ -35,6 +37,7 @@ sort file.name asc
 ### Towers
 
 There are seven Skyview Towers remaining from the Upheaval, which have been repurposed, primarily as military bases. Any others are presumed destroyed by decades without upkeep and with drastic weather conditions.
+
 ```dataview
 table without id file.link as Tower, Region, Primary-Purpose
 from #tower
@@ -44,6 +47,7 @@ sort file.name asc
 ### Factions
 
 Various groups can be engaged throughout the game, to earn renown and possibly gain treasure or help.
+
 ```dataview
 table without id file.link as Faction, Renown, Members, Alignment, Symbol
 from #faction
