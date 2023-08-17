@@ -37,7 +37,7 @@ reactions:
     desc: "The chuchu can only use this reaction if it has an elemental cloak. When reduced to 0 HP, a burst of magical energy gushes from the chuchu in all directions. Every creature within 15 feet of the chuchu must make a DC 12 Dexterity saving throw. A creature takes 20 (4d10) damage on a failed save, or half as much on a successful one. The damage type matches that of the chuchu's elemental cloak."
 ```
 
-### Definitions
+### Description
 
 The Malicious Chu is a special kind of purple Chu, which has a elemental cloak of poison. This particular Chu was created by the Yiga to help spread Malice across Hyrule.
 

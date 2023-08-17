@@ -30,7 +30,7 @@ languages: --
 cr: 6
 traits:
   - name: Ambusher.
-    desc: "he moldorm has advantage on attack rolls against any creature it has surprised."
+    desc: "The moldorm has advantage on attack rolls against any creature it has surprised."
   - name: Evasive.
     desc: "The moldorm can take the Disengage action as a bonus action on each of its turns."
   - name: Weak Point.

@@ -33,6 +33,8 @@ actions:
     desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage and the target must succeed on a DC 13 Strength saving throw or be knocked prone."
 ```
 
+### Description
+
 Pebblits are small earth elementals that are young stone taluses. While they are young, their bodies are incredibly fragile and may be easily destroyed by bombs.
 
 ### Variant: Igneo Pebblit

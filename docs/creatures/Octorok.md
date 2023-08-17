@@ -30,6 +30,8 @@ actions:
     desc: "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage."
 ```
 
+### Description
+
 Octoroks are highly adaptable omnivorous creatures. As their name implies, octoroks bear similarities to octopi, and famously spit rocks as their primary form of attack. They can be almost any color, but are most often violet, red, or blue. An octorok has between four and eight tentacle-like legs which are surprisingly functional both on land and in water, enabling octoroks to be truly amphibious.
 
 ### Variant: Rock Octorok

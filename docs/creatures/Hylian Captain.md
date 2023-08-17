@@ -41,4 +41,4 @@ reactions:
 
 ### References
 
-https://www.dndbeyond.com/monsters/16799-bandit-captain
+* https://www.dndbeyond.com/monsters/16799-bandit-captain

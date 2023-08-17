@@ -34,4 +34,4 @@ actions:
 
 ### References
 
-https://www.dndbeyond.com/monsters/175769-soldier
+* https://www.dndbeyond.com/monsters/175769-soldier
