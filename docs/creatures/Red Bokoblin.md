@@ -34,4 +34,4 @@ actions:
 
 ### References
 
-https://www.dndbeyond.com/monsters/16907-goblin
+* https://www.dndbeyond.com/monsters/16907-goblin
