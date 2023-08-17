@@ -37,4 +37,4 @@ reactions:
 
 ### References
 
-https://www.dndbeyond.com/monsters/17160-hobgoblin-captain
+* https://www.dndbeyond.com/monsters/17160-hobgoblin-captain
