@@ -7,4 +7,3 @@ This orange-colored staff ends in a tip resembling a question mark. You can use 
 If the bead reaches the end of its trajectory without touching a suitable object or creature, it vanishes.
 
 ![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a4/TMC_Cane_of_Pacci_Artwork.png|300](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a4/TMC_Cane_of_Pacci_Artwork.png)
-
