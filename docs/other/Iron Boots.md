@@ -9,7 +9,7 @@ You can don or doff this pair of 20 lb. metallic footwear as an action. While wo
 * You have disadvantage on every Dexterity (Acrobatics) check, and any Dexterity (Stealth) check that involves walking.
 * You have advantage on any ability check or saving throw to avoid being knocked prone or moved from your position.
 
-![https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-twilight-princess/5/59/Boots.png|400](https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-twilight-princess/5/59/Boots.png)
+![https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-twilight-princess/5/59/Boots.png|300](https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-twilight-princess/5/59/Boots.png)
 
 ### References
 

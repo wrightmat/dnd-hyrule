@@ -1,5 +1,7 @@
  #item 
 
+*Wondrous item, legendary*
+
 The Ocarina of Time, specifically a transverse ocarina (also known as a "sweet potato ocarina"), is an instrument used to play music. It is a magical instrument that was originally made from Timeshift Stones mined in an age long past, and has taken on many names and uses over the ages.
 
 Playing songs on the Ocarina, especially at certain special locations, can have effects on the world. Many songs have certainly been lost, but some such as the Song of Time still remain.

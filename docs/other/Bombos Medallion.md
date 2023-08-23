@@ -9,7 +9,7 @@ While it is on your person, you can activate the bombos medallion by using an ac
 Once you cast this spell, the medallion normally cannot be activated again until the next dawn. A creature can touch the medallion and use its action to expend a 9th-level spell slot, which will replenish the medallion's charge early.
 
 >[!info] Bombos
->9th-level evocation
+>*9th-level evocation*
 >
 >**Casting Time**: 1 action
 >**Range**: Self (120-foot radius)
