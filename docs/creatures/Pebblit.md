@@ -16,7 +16,7 @@ speed: 30 ft.
 stats: [16, 12, 16, 6, 11, 5]
 damage_vulnerabilities: thunder
 damage_resistances: acid, cold, fire, lightning
-damage_immunities: poison; bludgeoning, piercing and slashing from nonmagical attacks
+damage_immunities: poison; piercing and slashing from nonmagical attacks
 condition_immunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 senses: tremorsense 30 ft., passive Perception 10
 languages: --
