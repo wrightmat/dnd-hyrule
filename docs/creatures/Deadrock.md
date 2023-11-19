@@ -13,7 +13,7 @@ ac: 12
 hp: 30
 hit_dice: 6d4 + 18
 speed: 40 ft.
-stats: [16, 12, 16, 6, 11, 8]
+stats: [16, 14, 16, 6, 11, 8]
 senses: tremorsense 30 ft., passive Perception 10
 languages: --
 cr: 1
