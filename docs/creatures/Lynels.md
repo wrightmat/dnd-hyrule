@@ -10,14 +10,17 @@ Lynel females are never seen outside of their villages though, and remain safely
 
 Lynels have a variety of attacks, both ranged and melee, such as shooting fireballs, body slamming, dashing, and trampling. Lynels also have the ability to teleport, doing so to either briefly flee from battle or to give chase. Every kind of Lynel are completely immune to all elemental types.
 
+#### Subtypes (in increasing order of difficulty):
+
+* [[Red Lynel]]
+* [[Blue Lynel]]
+* [[White Lynel]]
+* Silver Lynel
+* Gold Lynel
 
 ![https://media.discordapp.net/attachments/250479342415511552/1117487487363850271/742934_plagueofgripes_female-lynel-removebg-preview_1.png|600](https://media.discordapp.net/attachments/250479342415511552/1117487487363850271/742934_plagueofgripes_female-lynel-removebg-preview_1.png)
 
 ![https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bd/BotW_Lynel_Model.png|600](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bd/BotW_Lynel_Model.png)
-
-### Stat Block
-
-
 
 ### References
 

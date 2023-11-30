@@ -1,10 +1,10 @@
 ---
 statblock: inline
 ---
- #monster 
+ #monster [[Lynels]]
 
 ```statblock
-image: [[Wikilink To Image]]
+image: [[https://i.imgur.com/YyZTZCB.png]]
 name: Red Lynel
 size: Large
 type: Giant
@@ -28,7 +28,7 @@ actions:
   - name: Multiattack.
     desc: "The lynel makes two one-handed longsword attacks."
   - name: Longsword.
-    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage. Two handed: 14 (2d10+3) slashing damage."
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage. Two handed: 14 (2d10 + 3) slashing damage."
   - name: Fire Breath (Recharge 5-6).
     desc: "The lynel exhales fire in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 18 (6d6) fire damage on a failed save, or half as much damage on a successful one."
 ```
