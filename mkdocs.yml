@@ -1,4 +1,5 @@
-site_name: dnd-hyrule
+site_name: D&D in Hyrule
+docs_dir: public
 
 theme:
     name: 'material'
