@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0c/BotW_Stone_Pebblit_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0c/BotW_Stone_Pebblit_Model.png
 name: Pebblit
 size: Small
 type: Construct

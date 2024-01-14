@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Lizalfos]]
 
 ```statblock
-image: [[https://www.zeldadungeon.net/wiki/images/6/64/Black-Lizalfos.png]]
+image: https://www.zeldadungeon.net/wiki/images/6/64/Black-Lizalfos.png
 name: Black Lizalfos
 size: Medium
 type: Humanoid

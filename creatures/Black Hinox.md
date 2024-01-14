@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Hinoxes]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/ba/BotW_Black_Hinox_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/ba/BotW_Black_Hinox_Model.png
 name: Black Hinox
 size: Huge
 type: Giant

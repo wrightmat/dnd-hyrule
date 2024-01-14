@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b8/ALBW_Pengator_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b8/ALBW_Pengator_Model.png
 name: Pengator
 size: Medium
 type: Monstrosity

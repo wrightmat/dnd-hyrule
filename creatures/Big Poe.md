@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Poes]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ad/OoT_Poe_Artwork.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ad/OoT_Poe_Artwork.png
 name: Big Poe
 size: Medium
 type: Undead

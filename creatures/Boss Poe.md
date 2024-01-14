@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Poes]]
 
 ```statblock
-image: [[https://www.models-resource.com/resources/big_icons/29/28062.png]]
+image: https://www.models-resource.com/resources/big_icons/29/28062.png
 name: Boss Poe
 size: Large
 type: Undead

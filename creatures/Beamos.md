@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-skyward-sword/e/ea/Beamos.png]]
+image: https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-skyward-sword/e/ea/Beamos.png
 name: Beamos
 size: Large
 type: Construct

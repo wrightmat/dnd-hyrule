@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7e/BotW_Molduga_Artwork.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7e/BotW_Molduga_Artwork.png
 name: Molduga
 size: Huge
 type: Monstrosity

@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Lynels]]
 
 ```statblock
-image: [[https://i.imgur.com/YyZTZCB.png]]
+image: https://i.imgur.com/YyZTZCB.png
 name: Red Lynel
 size: Large
 type: Giant

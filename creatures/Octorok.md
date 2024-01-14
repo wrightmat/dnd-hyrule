@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.zeldadungeon.net/wiki/images/d/d3/Water-Octorok.png]]
+image: https://www.zeldadungeon.net/wiki/images/d/d3/Water-Octorok.png
 name: Octorok
 size: Medium
 type: Beast

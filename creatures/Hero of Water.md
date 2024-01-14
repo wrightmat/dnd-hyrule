@@ -6,7 +6,6 @@ statblock: inline
 ```statblock
 layout: Party Scaled 5e Layout
 party-level: 4
-image: [[https://i.pinimg.com/originals/2d/25/5c/2d255c32a93feffbe42b79a4321b2b60.jpg]]
 name: Hero of Water
 size: Medium
 type: Humanoid

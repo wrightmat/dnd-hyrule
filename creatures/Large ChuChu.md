@@ -4,7 +4,6 @@ statblock: inline
  #monster [[ChuChu]]
 
 ```statblock
-image: [[Wikilink To Image]]
 name: Large ChuChu
 size: Large
 type: Ooze

@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Bokoblins]]
 
 ```statblock
-image: [[https://www.zeldadungeon.net/wiki/images/b/bf/Black-Bokoblin-Model.png]]
+image: https://www.zeldadungeon.net/wiki/images/b/bf/Black-Bokoblin-Model.png
 name: Black Bokoblin
 size: Small
 type: Humanoid

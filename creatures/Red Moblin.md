@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Moblins]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/86/BotW_Moblin_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/86/BotW_Moblin_Model.png
 name: Red Moblin
 size: Medium
 type: Humanoid

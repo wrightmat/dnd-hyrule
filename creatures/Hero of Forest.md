@@ -6,7 +6,6 @@ statblock: inline
 ```statblock
 layout: Party Scaled 5e Layout
 party-level: 3
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/46/SSHD_Link_Model.png]]
 name: Hero of Forest
 size: Medium
 type: Humanoid

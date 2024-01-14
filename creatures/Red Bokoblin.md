@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Bokoblins]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c5/BotW_Bokoblin_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c5/BotW_Bokoblin_Model.png
 name: Red Bokoblin
 size: Small
 type: Humanoid

@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4d/OoT_Baby_Dodongo_Artwork.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4d/OoT_Baby_Dodongo_Artwork.png
 name: Baby Dodongo
 size: Small
 type: Beast

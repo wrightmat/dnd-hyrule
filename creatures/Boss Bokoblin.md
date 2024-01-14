@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Bokoblins]]
 
 ```statblock
-image: [[https://www.gamerguides.com/assets/media/15/11072/bossbob-763bde2f.png]]
+image: https://www.gamerguides.com/assets/media/15/11072/bossbob-763bde2f.png
 name: Boss Bokoblin
 size: Large
 type: Humanoid

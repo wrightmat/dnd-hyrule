@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7e/OoT_ReDead_Artwork.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7e/OoT_ReDead_Artwork.png
 name: Redead
 size: Medium
 type: Undead

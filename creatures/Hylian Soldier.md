@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/dynastywarriors/images/b/bc/Hyrulean_Soldier_01_-_HW.png]]
+image: https://static.wikia.nocookie.net/dynastywarriors/images/b/bc/Hyrulean_Soldier_01_-_HW.png
 name: Hylian Soldier
 size: Medium
 type: Humanoid

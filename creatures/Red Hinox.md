@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Hinoxes]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/the-legend-of-zelda-botw/images/3/3f/Hinox.jpeg]]
+image: https://static.wikia.nocookie.net/the-legend-of-zelda-botw/images/3/3f/Hinox.jpeg
 name: Red Hinox
 size: Huge
 type: Giant

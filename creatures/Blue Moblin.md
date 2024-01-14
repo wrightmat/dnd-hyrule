@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Moblins]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/99/BotW_Blue_Moblin_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/99/BotW_Blue_Moblin_Model.png
 name: Blue Moblin
 size: Medium
 type: Humanoid

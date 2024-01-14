@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Moblins]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3e/BotW_Black_Moblin_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3e/BotW_Black_Moblin_Model.png
 name: Black Moblin
 size: Medium
 type: Humanoid

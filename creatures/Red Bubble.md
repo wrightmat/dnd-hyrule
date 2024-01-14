@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c8/TWW_Red_Bubble_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c8/TWW_Red_Bubble_Model.png
 name: Red Bubble
 size: Small
 type: Undead

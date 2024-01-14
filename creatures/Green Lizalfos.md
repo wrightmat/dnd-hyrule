@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Lizalfos]]
 
 ```statblock
-image: [[https://www.zeldadungeon.net/wiki/images/thumb/7/74/Green-Lizalfos.png/300px-Green-Lizalfos.png]]
+image: https://www.zeldadungeon.net/wiki/images/thumb/7/74/Green-Lizalfos.png/300px-Green-Lizalfos.png
 name: Green Lizalfos
 size: Medium
 type: Humanoid

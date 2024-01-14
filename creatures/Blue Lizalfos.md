@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Lizalfos]]
 
 ```statblock
-image: [[https://cdn.wikimg.net/en/zeldawiki/images/thumb/d/d3/BotW_Blue_Lizalfos_Model.png/1200px-BotW_Blue_Lizalfos_Model.png]]
+image: https://cdn.wikimg.net/en/zeldawiki/images/thumb/d/d3/BotW_Blue_Lizalfos_Model.png/1200px-BotW_Blue_Lizalfos_Model.png
 name: Blue Lizalfos
 size: Medium
 type: Humanoid
