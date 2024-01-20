@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Moblins]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7b/BotW_Silver_Moblin_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7b/BotW_Silver_Moblin_Model.png
 name: Silver Moblin
 size: Medium
 type: Humanoid

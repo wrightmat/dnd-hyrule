@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d8/TP_Tektite_Render.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d8/TP_Tektite_Render.png
 name: Tektite
 size: Medium
 type: Beast

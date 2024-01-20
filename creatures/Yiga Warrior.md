@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Yiga Clan]]
 
 ```statblock
-image: [[https://64.media.tumblr.com/7cb7a3e11209892c727a2926ea6c3ebd/tumblr_p2bfxdjkaA1wtdpkho4_1280.png]]
+image: https://64.media.tumblr.com/7cb7a3e11209892c727a2926ea6c3ebd/tumblr_p2bfxdjkaA1wtdpkho4_1280.png
 name: Yiga Warrior
 size: Medium
 type: Humanoid

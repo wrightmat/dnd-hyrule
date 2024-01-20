@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Poes]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/37/TFH_White_Poe.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/37/TFH_White_Poe.png
 name: Small Poe
 size: Small
 type: Undead

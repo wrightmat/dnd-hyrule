@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Yiga Clan]]
 
 ```statblock
-image: [[https://www.zeldadungeon.net/wiki/images/8/80/Yiga-blademaster.jpg]]
+image: https://www.zeldadungeon.net/wiki/images/8/80/Yiga-blademaster.jpg
 name: Yiga Blademaster
 size: Medium
 type: Humanoid

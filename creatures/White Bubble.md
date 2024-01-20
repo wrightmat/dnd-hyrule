@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://i.imgur.com/icIFLzw.png]]
+image: https://i.imgur.com/icIFLzw.png
 name: White Bubble
 size: Small
 type: Undead

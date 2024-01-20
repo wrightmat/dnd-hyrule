@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://i.imgur.com/48dBoEs.png]]
+image: https://i.imgur.com/48dBoEs.png
 name: Zola
 size: Medium
 type: Humanoid

@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Yiga Clan]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d4/BotW_Yiga_Footsoldier_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d4/BotW_Yiga_Footsoldier_Model.png
 name: Yiga Footsoldier
 size: Medium
 type: Humanoid

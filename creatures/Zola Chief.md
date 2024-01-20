@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ae/PH_Geozard_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ae/PH_Geozard_Model.png
 name: Zola Chief
 size: Medium
 type: Humanoid

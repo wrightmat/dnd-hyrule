@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9a/SSHD_Skulltula_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9a/SSHD_Skulltula_Model.png
 name: Skulltula
 size: Medium
 type: Beast

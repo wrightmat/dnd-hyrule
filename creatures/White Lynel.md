@@ -4,7 +4,7 @@ statblock: inline
  #monster [[Lynels]]
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c4/BotW_White-Maned_Lynel_Model.png]]
+image: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c4/BotW_White-Maned_Lynel_Model.png
 name: White Lynel
 size: Large
 type: Giant

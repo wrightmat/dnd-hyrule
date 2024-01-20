@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[http://www.zeldadungeon.net/wiki/images/thumb/c/c4/Wallmaster-Art.png/800px-Wallmaster-Art.png]]
+image: http://www.zeldadungeon.net/wiki/images/thumb/c/c4/Wallmaster-Art.png/800px-Wallmaster-Art.png
 name: Wallmaster
 size: Medium
 type: Aberration
