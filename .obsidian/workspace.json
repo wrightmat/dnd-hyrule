@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "04338ab05cfd04fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cdfe7a49b3fa506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a191d33fd33a7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba40d14da42d20bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/02. Eventide Island.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c8fdf6bacca0931",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2496c3ea69e8484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f4c1691af01c222",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a9be2f91b7ec4bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8b084024af2ce60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "f240dac5ef673dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "1460df08029189ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a777500ddd1b9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "adventures/02. Eventide Island.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70eeeaea3b8f70f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "adventures/02. Eventide Island.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b45963a6c448437",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d719d3a54d82d0db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "adventures/02. Eventide Island.md"
+              }
+            }
+          },
+          {
+            "id": "227bed00a3ad59f2",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d3684d68f0e9512",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dbfolder:Create a new database table": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "ba40d14da42d20bb",
+  "lastOpenFiles": [
+    "Summary.md",
+    "adventures/02. Eventide Island.md",
+    "characters/Aaqlet.md",
+    "creatures/Deadrock (conflict 2024-01-14-14-33-00).md",
+    "creatures/Zola Chief.md",
+    "creatures/Zola.md",
+    "creatures/Yiga Warrior.md",
+    "creatures/Yiga Footsoldier.md",
+    "creatures/Yiga Blademaster.md",
+    "creatures/Wolfos.md",
+    "creatures/Wizzrobe.md",
+    "creatures/White Lynel.md",
+    "creatures/White Bubble.md",
+    "creatures/Wallmaster.md",
+    "creatures/Tektite.md",
+    "creatures/Small Poe.md",
+    "creatures/Small ChuChu.md",
+    "creatures/Skulltula.md",
+    "creatures/Silver Moblin.md",
+    "creatures/Silver Bokoblin.md",
+    "creatures/Redead.md",
+    "creatures/Red Moblin.md",
+    "creatures/Red Lynel.md",
+    "creatures/Red Hinox.md",
+    "creatures/Red Bubble.md",
+    "creatures/Red Bokoblin.md",
+    "docs/_ref/races",
+    "docs/_pdf",
+    "docs/New folder",
+    "docs/_img/hyrule-surface/4-9-8.png",
+    "docs/_img/hyrule-surface/4-9-9.png",
+    "docs/_img/hyrule-surface/4-9-7.png",
+    "docs/_img/hyrule-surface/4-9-6.png",
+    "docs/_img/hyrule-surface/4-9-4.png",
+    "docs/_img/hyrule-surface/4-9-5.png",
+    "docs/_img/hyrule-surface/4-9-3.png",
+    "docs/_img/hyrule-surface/4-9-2.png",
+    "docs/_img/hyrule-surface/4-9-15.png",
+    "docs/_img/hyrule-surface/4-9-14.png",
+    "docs/_img/hyrule-surface",
+    "docs/_img",
+    "_srd/spells",
+    "_srd/races",
+    "_srd/npcs",
+    "_srd/monsters",
+    "_srd/items"
+  ]
+}
