@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/02. Eventide Island.md",
+                "file": "adventures/06. Temple of the Volcano God.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 312.5
   },
   "right": {
     "id": "f240dac5ef673dba",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/02. Eventide Island.md",
+                "file": "adventures/06. Temple of the Volcano God.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/02. Eventide Island.md",
+                "file": "adventures/06. Temple of the Volcano God.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/02. Eventide Island.md"
+                "file": "adventures/06. Temple of the Volcano God.md"
               }
             }
           },
@@ -175,13 +175,17 @@
       "command-palette:Open command palette": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false
     }
   },
   "active": "ba40d14da42d20bb",
   "lastOpenFiles": [
-    "Summary.md",
+    "adventures/06. Abandoned Mine Dungeon.md",
+    "adventures/06. Temple of the Volcano God.md",
     "adventures/02. Eventide Island.md",
+    "Summary.md",
     "characters/Aaqlet.md",
     "creatures/Deadrock (conflict 2024-01-14-14-33-00).md",
     "creatures/Zola Chief.md",
@@ -204,8 +208,6 @@
     "creatures/Red Moblin.md",
     "creatures/Red Lynel.md",
     "creatures/Red Hinox.md",
-    "creatures/Red Bubble.md",
-    "creatures/Red Bokoblin.md",
     "docs/_ref/races",
     "docs/_pdf",
     "docs/New folder",
